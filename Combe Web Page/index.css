@@ -1,11 +1,17 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+html {
+    background: url(doctors_dream.jpg);
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+}
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
 }
 .menu-container{
     color: #ffffff;
-    background-color: #5995DA;
+    background-color: #ccffeb;
     padding: 20px 0;
     display: flex;
     justify-content: center;
@@ -30,9 +36,13 @@
     display: flex;
     justify-content: space-around;
 }
+.body-container{
+    background-color: #ffffff;
+    width: 75%;
+    margin: auto;
+}
 .text-container{
     color: #5995DA;
-    background-color: #ffffff;
     padding: 20px 0;
     display: flex;
     justify-content: center;
