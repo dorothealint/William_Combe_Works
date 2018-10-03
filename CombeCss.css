@@ -1,24 +1,58 @@
-body {
-background-color: #ffe6ff;
-color: #70003D;
-font-family: arial, helvetica, sans-serif;
-} 
-div#top {width:90%; background-color:#ccffeb; padding:10px; border-top-left-radius: 70px; 
-border-bottom-right-radius: 70px; border-top-right-radius: 70px; 
-border-bottom-left-radius: 70px; text-align:center; justify-content: space-around
+html {
+    background: url(doctors_dream.jpg);
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
 }
-div#centerImage img {width:25%}
-div#centerImage img {justify-content: center}
-
-img {
-    width: 10%;
-    height: 10%;
-    }
-    
-div.topnav{
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
     font-size: 20px;
-    font-family: "Courier New";
-    text-align: center;
-    color: white;
-    padding: 10px;
+}
+.menu-container{
+    color: #ffffff;
+    background-color: #ccffeb;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+}
+.portrait{
+    display: flex;
+    justify-content: flex-start;
+}
+.links{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 20px;
+}
+.picture-box{
+    display: flex;
+    justify-content: space-around;
+}
+.body-container{
+    background-color: #ffffff;
+    width: 75%;
+    margin: auto;
+}
+.text-container{
+    color: #5995DA;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
 }
