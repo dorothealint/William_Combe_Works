@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>William Combe Project</title>
+        <author>Dorothea Lint</author>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Prepared in TEI P5 for William Combe project. Date last modified <date when="2018-10-19">19 Oct 2018</date></authority>
+        <availability><licence>!-- https://creativecommons.org/share-your-work/ --!</licence></availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born Digital!</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="William_Combe_odd" start="TEI">
+        <moduleRef key="header"/>
+        <moduleRef key="core"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="textstructure"/>
+        <moduleRef key="namesdates"/>
+        <moduleRef key="analysis" include="phr s w"/>
+        <moduleRef key="corpus" include="particDesc "/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>

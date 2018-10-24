@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <author>William Combe</author>
+                <editor>Dorothea Lint</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target=""
+                    ></ref> and GitHub: <ref
+                        target=""
+                        ></ref></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>THE MODERN SPECTATOR Vol. V No. IV</title>
+                    <date when="1811-07"/>
+                    <biblScope>Pages 19-23</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Transcribed by Dorothea Lint</p>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <epigraph><cit><quote><l>An elegant
+                    sufficiency, content,</l>
+                <l>Retirement, rural quiet, friendship, books,</l>
+                <l>Progressive virtue, and approving Heaven.</l></quote></cit>
+        <persName>Thomson</persName></epigraph>
+    <p>I have been absolutely inundated with letters from the country, in consequence of my last
+        paper; in some of which I have not been treated with the urbanity which I am disposed to
+        hope I deserve.</p>
+    <p>It was not my design to represent a country life as a necessary scene of inferior vice and
+        folly , of which I have been accused, but merely to state the disappointment that too often
+        follows from forming erroneous notions of it. I have seldom if ever known a person, who,
+        after a life of active business in <placeName>London</placeName>, retired to rural life, with a view
+        of being happy in rural enjoyments, who experienced the satisfaction which was expected from
+        them. It must be obvious to rational reflection, that long habits of anxious employment, the
+        getting up early, the late taking rest, and eating the bread of carefulness, will disqualify
+        a man from enjoying a situation where listless hours pass in succession, with little to
+        awaken thought or excite activity in minds unprepared by science or education for
+        intellectual occupation. I have an example from my own neighbourhood in the country, and I
+        doubt not that many others might be found in other neighbourhoods, to support the rectitude
+        of my opinion.</p>
+    <p>The worthy man to whom I allude, after passing thirty years in the bustle of a retail trade
+        in one of the principal streets of the metropolis, found himself in possession of a handsome
+        fortune, and actualed by a wish to retire to the tranquillity of a country life. His wife,
+        who had contrived to acquire rather a predominant influence over his actions, happened, on
+        this occasion, to entertain a similar sentiment. Where money is plenty, wishes of this kind
+        are readily gratified; and a handsome house, with all the requisite rural appurtenances, was
+        purchased at the distance of thirty miles from town. It was in a retired village, where a
+        man of his opulence would be sure to be regarded with no common consideration. He
+        accordingly thought it one of the happiest days of his life, when, in his coach and four, he
+        received the homage of the villagers who were assembled to greet his arrival, and he never
+        had heard more cheering sounds than those of the peal of bells which announced it to the
+        neighbourhood.</p>
+    <p>For the first week every thing was delightful; the novelty of the scene, and his conscious
+        importance, pleased his curiosity and gratified his vanity. Nay, on the first Sunday, he was
+        so delighted with sitting in a high place in the church, and the service waiting for his
+        presence, that, for the first time during many years, he remained awake from the beginning
+        to the end of it.</p>
+    <p>A month, however, had not passed away before he became so tired of having nothing to do, and
+        no new object to see, that he disposed of his place at a considerable loss, and purchased
+        another, which was on the side of a high-road, and promised him a continual scene of amusing
+        objects, of which he lived in the perpetual enjoyment. At a small distance from his mansion
+        there most fortunately happened to be a turnpike; and, in an armchair, at the entrance of
+        the collector’s house, he passed the whole of every day, except the short time allowed for
+        his meals. While his good lady shewed her handsome equipage to the country, and entertained
+        her neighbours, he shewed his figure to every traveler on the road, and entertained himself
+        with keeping a regular account of the daily passage of horsemen, one-horse chaises, and
+        every other kind of carriage that passed through the turnpike. There was his chief, indeed
+        his only pleasure, and there he shared the repeated bowl and social pipe with the succession
+        of men who took the toll; till, in consequence of the exposure of himself at all times and
+        in all seasons, he brought on a disorder which terminated his life.</p>
+    <p>Virtue is not local; and there may be as much virtue exercised in
+            <placeName>Portman-square</placeName>, as in the remotest part of <placeName>Yorkshire</placeName>: but
+        from the different modes of living in town and country, they cannot be so fully displayed in
+        the one as in the other. A town house is a very confined scene of action. Neighbours in the
+        metropolis having no necessary connection; and the lower classes have no other association,
+        and that a very distant one, but as they may be incidentally employed by them. Pleasure,
+        ceremony, and public business compose the whole of an independent town life: while in the
+        country, a gentleman has his personal occupations; he receives his visitors as a part of his
+        family; he lives among his tenants; his actions are all known; he is at once an example and
+        an authority, and may be, as many are, a blessing to all around him.</p>
+    <p>At present I shall prove my perfect impartiality by adding a letter, which gives a different
+        picture of a country life from that which appeared in my last paper. It is equally founded
+        in nature and in truth, and will, I hope, restore me to the good opinion of those of my
+        readers whom I appear, though I must think very undeservedly, to have offended.</p>
+    <letter><p>TO THE MODERN SPECTATOR.</p>
+        <p>Sir,--Without meaning to question the probability of the account which you gave of the
+                <persName>Overhill</persName> family in your last number, I beg leave to offer you
+            the representation of a country family, which, I hope, will redeem provincial life from
+            those unfavourable impressions which <persName>Mr. Truman</persName>’s letter is
+            calculated to produce. I have also paid a long-promised visit to a relation, a reverend
+            divine, in a distant part of <placeName>England</placeName>; but I found him in a mansion “where
+            sweet content doth dwell and learned ease,” and which the virtues and the graces inhabit
+            in an inseparable union.</p>
+        <p>As the time of my arrival was known, I was met by <persName>Doctor Goodall</persName>
+            about five miles from his house, when, dismounting from his horse, he got into my
+            chaise, embraced me with a glow of honest affection, and prepared me, by his
+            conversation, for the reception I was to find, and the comfort I was to enjoy beneath
+            his roof. He had ordered the postillion to take a private road, which led to the gate of
+            his garden, where I found <persName>Mrs. Goodall</persName> and her two eldest daughters
+            ready to receive me in a manner at once polite and affectionate. We walked through a
+            delightful garden to the house, where the youngest daughter, a counterpart in form and
+            manners of those I had already seen, was prepared to welcome me with a smile of modesty
+            and regard to the happy threshold. She apologized with a most graceful simplicity for
+            not having been at the garden-gate to receive me; but her sisters and herself, she said,
+            took it by turns to be housekeepers for the week; and that being the term of her office,
+            it became her to remain within the circle of her duty: “However,” added she, “I have
+            also my advantage, as, from the circumstance, I shall have the more immediate pleasure
+            of attending upon you.”</p>
+        <p>I now entered a large, old-fashioned, convenient house, where cleanliness and comfort
+            seemed to occupy every corner; and while I sat at the tea-table, surrounded with these
+            amiable people, I enjoyed a state of tranquil luxury, which the hurries of a hurrying
+            life had prevented me from having hitherto experienced. The rest of the evening passed,
+            as it had begun, in conversation which wanted neither interest nor vivacity; when supper
+            was served at an early hour, on account of my journey; and prayers having been read by
+            the doctor to the whole family. I was conducted to my chamber. With a mind soothed by
+            the pleasing attentions of this excellent family, and my body rather fatigued by a
+            cross-country journey of fifty miles, I need not add, that my repose was calm and sound;
+            and that I awoke in the morning to health, spirits, and satisfaction.</p>
+        <p>The prospect from my chamber was over a beautiful lawn, varied by plantations and
+            enameled with flowers; and, on opening the window, a voice, sweet as music, bade me good
+            morrow. It was to the eldest of the young ladies, who was gathering a nosegay to present
+            to me at breakfast, to whom I was indebted for the charming salutation; and I was
+            immediately summoned by a gentle rap at the door, and another votive good morrow, from
+            the second of the sisterhood, who conducted me into a long gallery, with a large
+            bow-window at the end of it, round whose Gothic frame the jessamine and the honeysuckle
+            mingled their flowers and their fragrance. Here the breakfast was arranged, whose
+            luxuries were supplied by the housewifery of the girls; and here were continued the
+            delightful enjoyments of the preceding evening, heightened by a new day, a smiling sky,
+            invigorated spirits, and unconstrained regard.</p>
+        <p>This gallery seemed to contain every thing that could improve the mind, and fill up the
+            day with elegant useful amusement. At the opposite end of it, there was a small organ
+            and other instruments of music, with a large glass case, which contained a well arranged
+            philosophical apparatus; and, in other parts of this capacious room, there were
+            implements, not only of design and embroidery, but of the less elegant, though, perhaps,
+            more necessary branches of female qualification.</p>
+        <p>When I had examined this well-ordered arrangement of domestic pleasure, the doctor
+            proposed a walking excursion, in order to shew me, what he very justly styled, the
+            comforts of his little domain. We, therefore, sallied forth, and, passing through the
+            garden, entered a well-planted serpentine walk, which commanded various views of a very
+            pleasing country; and, continuing to skirt a very rich, but narrow valley for about a
+            mile, terminated in a small grove of stately oaks and beeches. Beneath this spot a
+            rivulet meandered, whose surface was agitated by a waterfall, which, though at some
+            distance, formed a beautiful object for the eye, while it enlivened the ear by its
+            irregular murmurs. Here we all sat down, under a kind of over-hanging clift, covered
+            with ivy and skirted with laurel. At this moment, my senses, which were wrapped up in
+            the charming circumstances about me, received a sudden, but delightful animation, by the
+            bursting forth of the village peal, which, in unequal and swelling sounds, congratulated
+            my arrival. The doctor enlarged upon the rude state in which he found the place at his
+            first coming to it, with the plan of its subsequent improvements. In one spot he
+            acknowledged the suggestions of his wife, in others the fancy of his girls; and thus we
+            continued our return to the house, which received a very pleasing variety from our
+            passing through the village, where I perceived, with much sensibility, the affectionate
+            respect which the humble parishioners were proud of shewing to their pastor. When we
+            reached the rectory, the doctor retired, without apology, to his study; and his good
+            lady, after telling me that a bell would ring to give me half an hour’s notice of
+            dinner, retired with my fair cousins to the little offices of the toilette.</p>
+        <p>I then went for a short time to my chamber, and afterwards, strolled into the garden,
+            where, beneath the shade of a sycamore, I amused myself in comparing the vain, noisy,
+            intruding hospitality of public life, with the calm, cheerful, and unaffected welcome of
+                <placeName>Goodington Parsonage</placeName>. Nay, so deeply were my thoughts engaged in
+            reflecting on the superiority of virtue, and the contentment which arises from innocent
+            pleasures, over the interrupted, feverish delights, if they may deserve that name, of
+            ostentation, folly, and fashion, that the dinner bell had rung twice without my hearing
+            its summons; so that when dinner was served, the <placeName>London</placeName> cousin was lost,
+            till those voices, which were sufficient to animate the trees around me, called me to
+            myself, and the hospitable board that waited my appearance.</p>
+        <p>There I found the doctor’s curate, a young divine of very amiable aspect; and a modest,
+            well-behaved, neighbouring young squire, who had just completed an university education,
+            and was about taking possession of a very handsome estate adjoining to the doctor’s
+            parish. The table was covered with plenty, and possessed all the luxuries of nature
+            unsophisticated by those of art. Good humour came with the dessert, and an enlivened
+            conversation filled up the interval, till we were summoned to tea at a little cottage,
+            whose front commands a cheerful prospect of rural variety; while the back part
+            communicates with the dairy and a small farm, whose occupations amuse the leisure, and
+            whose productions supply the table, of its reverend owner,</p>
+        <p>Here I drank milk warm from the cow, saw the arrangements of tillage and pasture with a
+            more minute intelligent eye than I had hitherto seen them; was instructed in the nature
+            and amused with the process of rearing the various species of fowl for use or amusement,
+            and found my cup of tea brimful of fragrance.</p>
+        <p>An approaching storm forced our return sooner than was intended; but it could not be too
+            soon for the entertainment that followed. A concert in the gallery concluded the
+            evening. The young ladies took their separate instruments, while the curate and the
+            Oxonian aided the charming band. My fair cousins sometimes sung alone, and sometimes in
+            parts, and their mother joined the chorus; while I, delighted with the harmonious scene,
+            could only ask myself, whether I was on earth or in heaven.</p>
+        <p>I have thus given you, sir, a complete description of one day, that you may form a
+            judgment of all the rest; which, though varied by excursions, the visits of neighbours,
+            and country amusements, were all equally pleasant, rational, and improving.</p>
+        <p>To enjoy mirth without noise, conversation without calumny, luxury without extravagance,
+            elegance without vanity, and pleasure without repentance, was my happy lot during the
+            month which I passed at <placeName>Goodington Parsonage</placeNm>.</p>
+        <closer><signatures><persName>SAMUEL LOVEL</persName>.</signatures></closer></letter>
+        </body>
+    </text>
+</TEI>

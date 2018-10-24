@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <author>William Combe</author>
+                <editor>Dorothea Lint</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Digital edition hosted on <ref target=""
+                    ></ref> and GitHub: <ref
+                        target=""
+                        ></ref></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>THE MODERN SPECTATOR No. VI</title>
+                    <date when="1811-09"/>
+                    <biblScope>Pages 143-147</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Transcribed by Dorothea Lint</p>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <epigraph><cit><l>------------------A merrier
+                man,</l>
+            <l>Within the limits of becoming mirth,</l>
+            <l>I never spent an hour’s talk withal.</l>
+            <l>His eye begets occasion for his wit;</l>
+            <l>And every object that the one doth catch,</l>
+            <l>The other turns to a mirth-moving jest.</l>
+            <persName>SHAKSPEARE.</persName>
+            <addin>misspelling original</addin></cit></epigraph>
+    <p>”Every time a man smiles, much more so when he laughs,” says the inimitable
+            <persName>Sterne</persName>, “it adds something to the fragment of life.”—This Shadean
+        aphorism, without having a claim to the being physically true, is equally remote from being
+        physically false. To attain any fixed principles on this subject drawn from the evidence of
+        facts, is scarcely within the reach of philosophical enquiry; for so many circumstances
+        concur in the abbreviation and prolonging of human life, that it is not possible, perhaps,
+        to determine the share which a disposition to cheerfulness or gravity may exclusively have
+        in promoting the one or the other. Nor is it probable, if an anatomist had dissected
+            <persName>Heraclitus</persName> or <persName>Democritus</persName> after their deaths,
+        that he would, by a scientific research into their organic systems, have discovered any
+        appearance by which he could judge of their respective living characters; one of whom is
+        represented, by ancient historians, as having laughed through life; while the other is
+        described as being continually dissolved in tears.</p>
+    <p>That there is less wear and tear of the constitution in the indulgence of mirth than of
+        sorrow, will, I presume, be readily acknowledged; and that cheerfulness and gaiety are more
+        friendly to health than gravity, operating as an active principle, that is, with its
+        associate habits or its natural causes, is equally apparent. But if we compare those who
+        have been remarkable for the sprightliness of their disposition, and the merriment which
+        marked their hours, with those who are in the more dignified class of philosophers, and
+        whose character bears the stamp of solemn sobriety, it will not be found that life is
+        generally in favour of the laughing, merrymaking tribe. Many of our most learned, grave, and
+        scientific men, have had their days extended to a very protracted period.
+            <persName>Newton</persName> left the world which he had enlightened by his labours, when
+        he had exceeded an age that is seldom allotted to man; <persName>Locke</persName> attained
+        his seventy-second year: while <persName>Scarron</persName>,
+            <persName>Moliere</persName>,<persName>Foote</persName>, and others of a similar
+        disposition, those merry creatures, who, according to <persName>Sterne</persName>, might
+        look to the promise of a very long life, had not advanced beyond what is called the middle
+        period of it, when they were summoned to the tomb. Even <persName>Sterne</persName> himself,
+        as if to controvert his own position, for no man laughed more than he, was, ere he had
+        reached his forty-sixth year, in the silent seclusion of the grave.</p>
+    <p>But it may be said, with great truth, that such examples prove nothing either one way or the
+        other. Men, who are under the continual influence of frolic and fun, are ever on the verge
+        of intemperance. As they look to society for their pleasures, they are always in search of
+        what is called pleasurable society; and to whose zest they are themselves so enlivening an
+        addition. Borne away by the stream of pleasure, they are too apt to look for the happiness
+        of life in those gratifications which are calculated to exhilarate the present moment, with
+        little consideration for the future: a career, wherein health, as well as fortune, is too
+        often sacrificed, and the term of life artificially contracted. <emph rend="italic">A short life and a
+            merry one</emph>, is a maxim by which too many have brought on premature old age,
+        against whose evils laughter will be of little avail. The grave, sedate, and philosophic
+        character, on the contrary, though he may toil in his study, and grow pale by the midnight
+        lamp, necessarily selects temperance for his companion, and leaves nature to the slow and
+        regular operations of decay.</p>
+    <p>”You laugh too much to grow rich,” says a prudent, wealthy old gentleman in the comedy, to a
+        gay, laughing, sporting young country neighbour; and he might have added, with equal
+        propriety – to grow old; not, indeed, from the act itself, for it is a convulsion arising
+        from pleasure, and is as innocent as it is pleasant: but when, instead of being an
+        incidental effect of lively thoughts or grotesque occurrences, it becomes a habit, with all
+        the concomitant circumstances and dispositions to levity, which fix it as such, it can never
+        be considered as a preservative of health, or possessing a tendency to prolong life.</p>
+    <p>Laughter is exclusively a human characteristic, which is whimsically illustrated by the
+        following anecdote. One of the ancient philosophers having defined man to be a two-footed
+        animal without feathers, “<emph rend="italic">Animal bipes, carens pennis</emph>,” a wag of that
+        day, for there have been wags in all days, stripped a cock of his plumes, and exhibited him
+        as the philosopher’s man. The mirth was loud on the occasion among the standers-by; -- when
+        one of them observed, that this exemplar of man might be without feathers, and have no more
+        than two legs, but that still the resemblance did not run on all fours; for though the bird
+        might crow, it could not join in the <emph rend="italic">laugh</emph>.</p>
+    <p>Tears, as signs of grief, appear also to be the exclusive property of man.
+            <persName>Shakspeare</persName>
+        <addin>misspelling from original copy</addin>, indeed, has given the faculty of shedding
+        them, from painful sensations, to the stag; and he represents them as</p>
+    <l>Coursing each other down his innocent nose</l>
+    <l>In piteous case-----------</l>
+    <p>But I am not so profound in natural history as to be able to determine, whether the poet drew
+        his picture from nature, though, as he was at one time of his life a deer-stealer, he might
+        have opportunities of deriving his knowledge from that source. I am rather disposed to
+        suspect, that he dressed up a vulgar notion to give an added interest to the beauty of his
+        description. But as my present business is not with the miseries of life, I shall return to
+        my subject.</p>
+    <p>Laughter is occasioned by various circumstances; but though they may differ in form, colour,
+        and character, they are all of the same family: the ridiculous must blend with them all.
+        There is no reasoning upon this faculty; there is no bringing it to a fixed principle. It is
+        a capricious as whim and fancy can make it. A parson, dressed in a white coat, tumbling into
+        a dirty kennel, or accidents still more distressing, will sometimes produce it. Let a man
+        pull another by the nose which is only of a common size, and the seeing such an attack
+        excites no sense of ridicule; but if the human proboscis should be of a size to fill the
+        hand that is applied to disgrace it, the chance is in favour of its causing laughter in
+        those who witness the occurrence. If a little man slips and falls, the passer by receives no
+        impression, but that of wishing to assist him in getting up again; but if a person with an
+        enormous paunch, should measure his length, and flounder about in the dust, without hat or
+        wig, no one, but a man going to be hanged, would refrain from laughing. If one’s most
+        intimate friend should be taking a pinch of snuff in a coach, and by a sudden jolt of the
+        machine, his thumb and finger, with the pungent dust between them, should be turned from the
+        nostril and driven into the eye, would it be possible to refrain from laughter,
+        notwithstanding the torture we might see inflicted on that tender organ. If any person who
+        has a very decayed set of teeth should take a spoonful of ice-cream by mistake, or without
+        the necessary precaution, agony will immediately follow: nevertheless, the sputtering and
+        distortions of the countenance, produced by such an acute pain, will probably have the same
+        effect upon the spectators as the grins and grimaces of a clown in a pantomime.</p>
+    <p>This may be called practical humour, and if laughter is to be considered in any way as a
+        physical good, operating to salutary effects on the human frame, it must be looked for
+        rather from humour, in whatever shape it may appear, as being more abundant in ludicrous
+        images, than from wit. The latter, by its chaste selection of objects, and its brilliant
+        application of fancy to them, is more immediately addressed to the understanding, so that it
+        may produce pleasant ideas in the mind, without, at least, any violent attack upon the
+        muscles. Indeed, I perfectly agree with <persName>Sir William Temple</persName>, in
+        preferring humour to wit. The latter, it is true, has superior talents, and produces higher
+        emotions; but the former, after all, is the pleasanter fellow. A few observations will, I
+        think, justify the preference.</p>
+    <p><persName>Locke</persName> says, with his usual discrimination, “that wit consists in
+        distinguishing resemblances in objects which differ from each other, and differences in
+        objects which resemble each other.” It may also be added, that wit is an aptitude of
+        thought, and confined in its operation to conception and production: thus rapidly conceiving
+        the affinities and contradictions of things, and with an equal celerity, displaying
+        unexpected and striking images arising from them.</p>
+    <p>Wit may be not unaptly compared to the sight; and all its operations may be assimilated to
+        those of the eye, which seems to be the material soul of the body. The properties of wit and
+        sight are the quick perception of objects, the distinction and difference of their forms,
+        and the judgment of their distance. These relations appear to be so just, that, without
+        reasoning upon their causes, the same expressions are used to determine the qualities of the
+        one and the other. Perspicuity, penetration, and subtlety are equally applied to them both.
+        Eyes, accustomed to certain objects, discover in them shades which escape a more penetrating
+        visual power, which has not been in similar habits of observation. Thus the eye of a
+        connoisseur in painting soon distinguishes a copy from an original. The man of letters and
+        habitual criticism quickly discovers in a work all that relates to the style and genius of a
+        great writer. In the general statement of a proposition he quickly discovers remote
+        consequences; in a principle apparently unconnected may applications; in a simple idea
+        something sublime; and in a brilliant thought falsehood and affectation. Thus wit applies
+        itself to whatever objects it contemplates, and strikes out of them those sparkling thoughts
+        which at once surprise and delight, and not unfrequently illustrate and instruct.</p>
+    <p>Hence it will appear, I think, that as a mere companionable quality, wit must yield the palm
+        to humour; or, at least, in creating laughter must acknowledge an inferiority. Many
+        brilliant expressions of men renowned for their wit are now repeated, as I doubt not they
+        were originally uttered, without exciting more than a smile on the countenance, though
+        followed with the instant and real admiration of the mind.</p>
+    <p>I well remember my accidental attendance on an itinerant lecture on the art of exciting
+        laugher formed a principal feature of them; and, among a variety of rules and examples, he
+        related the three following stories, which he insisted had never been told to any one, who
+        had not heard them before, without producing the convulsion which was the subject of his
+        consideration. They certainly justified his opinion at the time, by their powerful effect in
+        exciting the mirth of his audience. At all events I shall conclude this paper with them,
+        leaving their operations to the temper and disposition of my readers.</p>
+    <p><emph rend="italic">First</emph>, An itinerant painter called at a gentleman’s house in the country
+        to offer the services of his pencil. The gentleman said he had a large staircase which he
+        should be glad to have decorated; and, in short, that he had no objection to throw away five
+        guineas upon it. The painter accordingly undertook to cover it with a magnificent picture,
+        the subject of which was to be the Passage of the Israelites over the Red Sea. The money was
+        paid in advance for the purchase of colours; but a sufficient quantity of red ochre was all
+        that was necessary for the painting. The next morning, at a very early hour, the artist
+        began his work, and covered the walls with a succession of scarlet waves. When the gentleman
+        came down to breakfast he was informed that the staircase was finished. “Here is a Red Sea
+        with a vengeance!” he exclaimed; “but where are the Israelites?”—“Oh,” said the painter,
+        “they have all passed over; they are safe on the other side.”—“But where then is Pharaoh and
+        his host?”—“Oh,” replied the artist, “they are all drowned; they are safe at the
+        bottom.”</p>
+    <p><emph rend="italic">Second</emph>, A pious old gentleman had hired a boy, who was recommended to him
+        for the excellent manner in which he read the Bible; and, as a specimen of his
+        qualification, the youth recited the following verse in the following manner:--“And the
+        prophet said unto his servant, Saddle me my ass; and he saddled HIM.”</p>
+    <p><emph rend="italic">Third</emph>, <persName>Doctor Monckley</persName>, an eminent physician in the
+        city was of <emph rend="italic">an uncommon bulk</emph>, was standing one summer evening
+            <emph rend="italic">before his own door</emph>, when he observed a servant knocking at all the
+        doors of the houses to the right and left of him; and, at length, hearing that the man was
+        enquiring where he himself lived, he very morosely addressed him in the following manner: “I
+        am <persName>Doctor Monckley</persName>, and the house before which I stand is my house, and
+        you are a blundering booby for not finding it out before.” Upon which the fellow replied, “I
+        wish then, doctor, you would keep within your house, that one might see there was a door to
+        it!”</p>
+    <p>I do not answer for the novelty of these stories; but anecdotes of this description certainly
+        give a greater scope to merriment, and create more laughter, than the most brilliant
+        effusions of wit. Nor will it, I believe, be denied, that a humorous man, who is a man of
+        good humour, is better qualified than any other to produce that social cheerfulness, which,
+        in <persName>Sterne</persName>’s opinion, tends to prolong life.</p>
+        </body>
+    </text>
+</TEI>
