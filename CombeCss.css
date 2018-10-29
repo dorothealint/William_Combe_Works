@@ -1,5 +1,5 @@
 html {
-    background: url(doctors_dream.jpg);
+    background: url(staticTextBackground.png);
     background-attachment: fixed;
     background-position: bottom;
     background-size: cover;
@@ -10,20 +10,16 @@ body {
     font-size: 20px;
 }
 .menu-container{
-    color: #ffffff;
-    background-color: #ccffeb;
+    color: #FFF7C0;
+    background-color: #6EC4DB;
     padding: 20px 0;
     display: flex;
     justify-content: center;
 }
-.menu{
-    width: 1000px;
+.combeText {
+    width: 800px;
     display: flex;
     justify-content: space-around;
-}
-.portrait{
-    display: flex;
-    justify-content: flex-start;
 }
 .links{
     width: 800px;
@@ -31,6 +27,12 @@ body {
     justify-content: space-around;
     align-items: center;
     margin-left: 20px;
+}
+.whitebar-container {
+    background-color: #ffffff;
+    width: 75%;
+    margin: auto;
+    display: flex;
 }
 .picture-box{
     display: flex;

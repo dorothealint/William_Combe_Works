@@ -1,0 +1,27 @@
+Site References
+
+Site Colors:
+    Salmon - #FA7C92
+    Rain - #6EC4DB
+    Buttermilk - #FFF7C0
+    Leaf - #66AB8C
+
+Text Font:
+    Arial
+Font Size: 20 pt
+
+Home Page Text:
+    William Combe: A Textual Analysis
+    Welcome to the Wiiiliam Combe Project! Here, we look into some works by author 
+    William Combe!
+        - Amelia's Letters: the missing names and places
+        - Modern Spectator: compare the letter writers to the original Spectator and
+            see how many are close to the original ideas
+                - Stylometric Analysis of each letter portion to see if any/all were
+                    written by Combe (and which ones weren't to eventually see if the
+                    named writer exists in any available records)
+                    
+Update Amelia's Letters => one page for each
+Update Modern Spectator => one page
+Update About Combe => one page
+Create Link Pages
