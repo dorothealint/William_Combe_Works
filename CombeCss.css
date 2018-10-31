@@ -42,10 +42,9 @@ body {
     background-color: #ffffff;
     width: 75%;
     margin: auto;
-    height: 100%;
 }
 .text-container{
-    color: #6EC4DB;
+    color: #5995DA;
     padding: 20px 0;
     display: flex;
     justify-content: center;
@@ -55,7 +54,7 @@ body {
     display: flex;
     justify-content: space-around;
 }
-.content {
+.content{
     margin: 0 auto;
-    justify-content: center;
+    text-align: center;
 }
