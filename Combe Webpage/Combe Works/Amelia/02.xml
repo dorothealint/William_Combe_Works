@@ -8,9 +8,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -29,7 +29,7 @@
         <body>
             <label>LETTER II.</label>
             
-            <opener><emph rend="italic">My dear & ever honoured Mother</emph>,</opener>
+            <p><!-- !opener! --><emph rend="italic">My dear &amp; ever honoured Mother</emph>,<!-- !/opener! --></p>
             
             <p>That you are so perfectly satisfied with my last letter, gives me additional spirits to begin another; and though I have waited for your short, but delightful answer, to write in form, I have not passed a day, or rather a night (for it is a part of the latter season which I ever dedicate to you), without preparing materials for the paper which is now before me.</p>
             

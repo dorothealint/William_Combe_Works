@@ -8,9 +8,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <opener><emph rend="italic">My dearest Child</emph>,</opener>
+            <p><!-- !opener! --><emph rend="italic">My dearest Child</emph>,<!-- !/opener! --></p>
             <p>YOUR letters are so much what I wish you to write to me, that I really believe if I had amused myself with fancifully composing such epistolary communications as my anxious heart could wish to receive from you, they could not have been more completely framed to fill up the measure of my satisfaction, than those which I now behold on the table before me.</p>
             
             <p>My occasional letters, brief as they are, tell you of all occasional matters; but when I send you such a packet as this, you will naturally look for the well-weighed counsels of a mother, whose whole thoughts are directed to an only child and darling daughter, who, by her virtues, qualities, graces, and affection (which last is the source of them all), has hitherto most amply rewarded my maternal cares; and, by the unremitting discharge of every duty during the sad state of debility with which it has pleased God to try me, has been so kind an alleviator of my sufferings.</p>
