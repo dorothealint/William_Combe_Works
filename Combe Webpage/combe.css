@@ -16,13 +16,18 @@ body {
     display: flex;
     justify-content: center;
 }
+.amelia-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
 .combeText {
-    width: 800px;
+    width: 100%;
     display: flex;
     justify-content: space-around;
 }
 .links{
-    width: 800px;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
