@@ -10,28 +10,52 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     
-    <xsl:variable name="modSynColl" select="collection('Modern_Syntax/?select=*.xml')"/>
-    
     <xsl:template match="/">
         <html>
-            <head><title>Modern Syntax</title></head>
+            <head>
+                <title>Combe Project| <xsl:value-of select=".//bibl/date/@when"/></title>
+                <link rel="stylesheet" href="combe.css" />
+            </head>
             <body>
-                <div id="toc">
-                    <h2>Table of Contents</h2>
-                    <ul><xsl:apply-templates select="$modSynColl//body" mode="toc"/></ul>
-                    <hr/>
+                <!-- SSI line below -->
+                <!--#include virtual="top.html" -->
+                <!-- SSI line below -->
+                <!--#include virtual="spectatorLinks.html" -->
+                <div class="body-container">
+                    <div class="text-container">
+                        <div class="content">
+                            <h1><xsl:value-of select=".//bibl/title"/></h1>
+                            <h2><xsl:value-of select=".//bibl/date/@when"/><xsl:text> :</xsl:text><xsl:value-of select=".//bibl/biblScope"/></h2>
+                            <xsl:apply-templates/>
+                        </div>
+                    </div>
                 </div>
-                <div id="main"><xsl:apply-templates select="$modSynColl"/></div>
             </body>
         </html>
     </xsl:template>
-
-    <xsl:template match="body" mode="toc">
-        <li><xsl:apply-templates select="descendant::label[1]"/></li>
+    
+    <xsl:template match="label">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="desc">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="signatures">
+        <div class="signature">
+            <p><xsl:apply-templates/></p>
+        </div>
+    </xsl:template>
+    <xsl:template match="closer">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="l">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="p">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="bibl">
+        <p><xsl:apply-templates/></p>
     </xsl:template>
     
-    <xsl:template match="body">
-        <h2><xsl:apply-templates select="descendant::label[1]"/></h2>
-    </xsl:template>
-
 </xsl:stylesheet>

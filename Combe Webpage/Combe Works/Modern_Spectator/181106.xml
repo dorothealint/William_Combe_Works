@@ -8,9 +8,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -27,13 +27,12 @@
     </teiHeader>
     <text>
         <body>
-
-                    <epigraph><cit><quote><l>O rus, quando ego te aspiciam, quandoque licebit,</l>
-                <l>Ducere solicitae jucunda oblivia vitae?</l></quote><bibl>VIRG. </bibl><l>When
-                shall I to the shades retire,</l>
+            <epigraph><cit><quote><l>O rus, quando ego te aspiciam, quandoque licebit,</l>
+            <l>Ducere solicitae jucunda oblivia vitae?</l></quote><bibl>VIRG. </bibl>
+     <quote><l>Whenshall I to the shades retire,</l>
             <l>And bid adieu to worldly care;</l>
             <l>The country’s tranquil charms admire,</l>
-            <l>And find the peace that’s treasur’d there></l></cit></epigraph>
+            <l>And find the peace that’s treasur’d there></l></quote></cit></epigraph>
     <p> It may, I believe, be said with great truth, that no one was ever engaged in the bustle and
         business of life, who did not look to some future period, with a satisfactory expectation,
         when he should retire from its cares and anxieties to the enjoyment of peace and
@@ -68,10 +67,10 @@
         fancied dreams of rural virtue and pastoral innocence.</p>
     <p>These thoughts have been suggested by a letter which I have received from the country, and
         which I shall, without any further observation, present to my readers.</p>
-    <letter>TO THE MODERN SPECTATOR. Sir, <p>As you have invited correspondents, I beg leave to
+    <!-- letter --><p>TO THE MODERN SPECTATOR. Sir, </p><p>As you have invited correspondents, I beg leave to
             become one of them. The history of my perplexities may not perhaps be unamusing; as, had
             they happened to another, they would probably have been entertaining to myself.</p>
-        <p>A life of commercial business had confined me to <placeName>London</placeNamw> and its immediate
+        <p>A life of commercial business had confined me to <placeName>London</placeName> and its immediate
             vicinity, till, by the death of a very wealthy relation, I found myself in possession of
             a fortune, which set me above the desire of making any addition to it; and determined me
             to get rid of all my trading concerns, in order that I might pass the rest of my days in
@@ -85,7 +84,7 @@
         <p>Having, in a few months, disentangled myself from all my commercial engagements, I wrote
             to my relation, <persName>Sir Wm. Overhill</persName>, to inform him of my intention to
             pay him the long-promised visit, and waited with a school-boy's impatience for the day
-            when I was to turn my back upon <placeName>London</placeNamw>, in search, as it were, of a new
+            when I was to turn my back upon <placeName>London</placeName>, in search, as it were, of a new
             life, and, as yet, untasted pleasures, in a distant part of the kingdom.</p>
         <p>My journey was one continued scene of delightful variety. The manufacturing towns through
             which I passed, being in some degree connected with my former profession, had a natural
@@ -167,7 +166,7 @@
             concluded; and when I took leave of my hospitable relations, for hospitable they were, 1
             seemed to find tranquillity on a turnpike road and in a public inn.</p>
         <p>I am your obedient servant,</p>
-        <p><closer><signatures><persName>HENRY TRUEMAN.</persName></signatures></closer></p></letter>
+        <closer><signatures><persName>HENRY TRUEMAN.</persName></signatures></closer><!-- /letter -->
         </body>
     </text>
 </TEI>

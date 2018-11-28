@@ -8,9 +8,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <epigraph><cit><l>------------------A merrier
+            <epigraph><cit><quote><l>------------------A merrier
                 man,</l>
             <l>Within the limits of becoming mirth,</l>
             <l>I never spent an hour’s talk withal.</l>
@@ -35,7 +35,7 @@
             <l>And every object that the one doth catch,</l>
             <l>The other turns to a mirth-moving jest.</l>
             <persName>SHAKSPEARE.</persName>
-            <addin>misspelling original</addin></cit></epigraph>
+                <!-- addin -->misspelling original<!-- /addin --></quote></cit></epigraph>
     <p>”Every time a man smiles, much more so when he laughs,” says the inimitable
             <persName>Sterne</persName>, “it adds something to the fragment of life.”—This Shadean
         aphorism, without having a claim to the being physically true, is equally remote from being
@@ -97,7 +97,7 @@
         might crow, it could not join in the <emph rend="italic">laugh</emph>.</p>
     <p>Tears, as signs of grief, appear also to be the exclusive property of man.
             <persName>Shakspeare</persName>
-        <addin>misspelling from original copy</addin>, indeed, has given the faculty of shedding
+        <!-- addin -->misspelling from original copy<!-- /addin -->, indeed, has given the faculty of shedding
         them, from painful sensations, to the stag; and he represents them as</p>
     <l>Coursing each other down his innocent nose</l>
     <l>In piteous case-----------</l>

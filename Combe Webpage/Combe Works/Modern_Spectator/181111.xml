@@ -7,9 +7,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -26,7 +26,7 @@
     </teiHeader>
     <text>
         <body>
-            <epigraph><cit><l>Money being the common
+            <epigraph><cit><quote><l>Money being the common
                 scale</l>
             <l>Of things by measure, weight, and tale;</l>
             <l>In all th’ affairs of church and state,</l>
@@ -39,7 +39,7 @@
             <l>T’ extend the lover’s longing arms:</l>
             <l>For what’s the worth of any thing,</l>
             <l>But so much money as ‘twill bring?</l>
-            <persName>Hudibras</persName></cit></epigraph>
+                <persName>Hudibras</persName></quote></cit></epigraph>
     <p>It is ingeniously observed by an eminent moral as well as philosophical writer, that comic
         playwrights exaggerate every character, and draw their fop or spendthrift, their bully or
         sharper, their old maid or coquette, with stronger features than are any where to be met
@@ -60,8 +60,8 @@
         in certain cases, be rendered very powerful in producing moral instruction and improvement,
         which is the legitimate object of all dramatic productions.</p>
     <p>This seems to have been the design of <persName>Moliere</persName> in his play of
-            <italics>L’Avare</italics>, which, having been translated into English, and frequently
-        acted on our stage under the title of the <italics>Miser</italics>, is well known to all who
+            <emph rend="italics">L’Avare</emph>, which, having been translated into English, and frequently
+        acted on our stage under the title of the <emph rend="italics">Miser</emph>, is well known to all who
         are fond of the drama. This character is not intended to represent an ordinary miser, but to
         be the personification of avarice itself; which, though one of the most detestable passions
         of the human breast, furnishes, perhaps, more ridiculous varieties than any other; and while
@@ -97,11 +97,11 @@
         opposition which the unexpected attempt occasioned. All hell was in an uproar; and each of
         the judges meditated some punishment proportioned to a crime of such dangerous consequence
         to the infernal revenues. Shall he be chained to the rock with
-                <persName><italics>Prometheus</italics></persName>? or tremble beneath the precipice
-        in company with the <persName><italics>Danaides</italics></persName>? or assist
-                <persName><italics>Sisyphus</italics></persName> in rolling his stone? were the
+        <persName><emph rend="italics">Prometheus</emph></persName>? or tremble beneath the precipice
+        in company with the <persName><emph rend="italics">Danaides</emph></persName>? or assist
+        <persName><emph rend="italics">Sisyphus</emph></persName> in rolling his stone? were the
         questions which issued from the tribunal. 'No,' said
-            <persName><italics>Minos</italics></persName>; 'none of these is sufficient, we must
+        <persName><emph rend="italics">Minos</emph></persName>; 'none of these is sufficient, we must
         invent some severer punishment. Let him be sent back to the earth, to see the use which his
         heirs are making of his riches.'"</p>
     <p>Just as I had finished this lively apologue, I received the following letter, which, though
@@ -111,7 +111,7 @@
         beauty. That my fair correspondent possesses the former, her letter sufficiently proves; and
         that she is adorned with the latter, I am most willing to believe, as I have her own
         authority for it.</p>
-    <letter><p>Mr. SPECTATOR,</p>
+    <!-- letter --><p>Mr. SPECTATOR,</p>
         <p>It is now six months, sir, since I attained twenty-one years of age, and I have reason to
             believe, from other information besides that of my looking-glass, that I am very
             handsome. Nor am I without the accomplishments that proceed from a fashionable
@@ -153,7 +153,7 @@
             married me. I did not hesitate, however, to shew my resentment to his insolence, and to
             take the first and most public opportunity to assure him, that he might hush his alarms
             at my having any design on his cub of a sin, as, whatever might be my matrimonial lot, I
-            was determined, at least, to marry into <italics>an honest family</italics>.</p>
+            was determined, at least, to marry into <emph rend="italics">an honest family</emph>.</p>
         <p>Such are the mortifications I continually receive from the sordid spirit of the world,
             which makes money the principle of all its views and actions, and is contented that it
             shall stand in the stead of virtue, honour, talent, and even beauty itself.</p>
@@ -213,10 +213,10 @@
             soon procure her a husband, who in rank, manners, fortune, and figure, will satisfy her
             ambition, her understanding, and her affection. I shall state my plan in as brief a way
             as the right understanding of it will admit.</p>
-        <p>As marriage is, and has long been very generally denominated, <italics>a
-                lottery</italics>, I propose to give my scheme the name, as it, indeed, adopts the
+            <p>As marriage is, and has long been very generally denominated, <emph rend="italics">a
+                lottery</emph>, I propose to give my scheme the name, as it, indeed, adopts the
             character of that mode of distributing the gifts of Fortune. I shall call it, therefore,
-            the <italics>Lottery of Hymen</italics>.</p>
+            the <emph rend="italics">Lottery of Hymen</emph>.</p>
         <p>In the first place, I propose that the kingdom shall be divided into a certain number of
             districts of a moderate size, of which a city, or some principal town, may form the
             center; and wherein the inhabitants must be arranged and classified according to their
@@ -271,7 +271,7 @@
             concluded; and then the business will be done in a few weeks.</p>
         <p>It will not be long, I trust, after such a result takes place, that I shall have to thank
             you for assisting me in this great and good work, under another name than that of</p>
-        <closer><signatures><persName>ARABELLA LANGUISH</persName></signatures></closer></letter>
+        <closer><signatures><persName>ARABELLA LANGUISH</persName></signatures></closer><!-- /letter -->
         </body>
     </text>
 </TEI>

@@ -8,9 +8,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -27,15 +27,15 @@
     </teiHeader>
     <text>
         <body>
-            <epigraph><cit><l>Last week was married at
+            <epigraph><cit><quote><l>Last week was married at
                     <placeName>Snoring</placeName> church, in this country, <persName>Mr. Snow</persName> to
                     <persName>Miss Frost</persName>.</l>
-            <l><emph rend="italic">Hail<emph>, wedded love!</l>
-            <source><emph rend="italic">A Country Newspaper<emph></source>.</cit></epigraph>
+            <l><emph rend="italic">Hail</emph>, wedded love!</l>
+                <!-- source --><emph rend="italic">A Country Newspaper</emph><!-- /source -->.</quote></cit></epigraph>
     <p>I OFFER the following letter without any prefatory remarks to my readers.</p>
-    <letter><persName>Mr. SPECTATOR</persName>, <p>I have somewhere read of a good woman, who, on
+    <!-- letter --><p><persName>Mr. SPECTATOR</persName>, </p><p>I have somewhere read of a good woman, who, on
             coming from church after she had been married, exclaimed most emphatically, “Thank
-            heaven! the troublesome business of love is <emph rend="italic">now<emph> at an end.” It has
+            heaven! the troublesome business of love is <emph rend="italic">now</emph> at an end.” It has
             also been said, in the same spirit, that lovers are no less altered by marriage than
             drunken men are by sleep.</p>
         <p>I have also frequently seen a pair of prints which represents the latter opinion in a
@@ -46,8 +46,8 @@
             so continually arrested to view its attractive display of art, taste, and beauty, these
             inferior productions, nevertheless, tell their story with considerable effect, though
             fitted only for the walls of a country alehouse, or the stall of a country fair.</p>
-        <p>The titles of these two pictures are <emph rend="italic">Before Marriage<emph> and
-                <emph rend="italic">After Marriage<emph>. The scene is the same in both: it is entirely
+        <p>The titles of these two pictures are <emph rend="italic">Before Marriage</emph> and
+                <emph rend="italic">After Marriage</emph>. The scene is the same in both: it is entirely
             rural, and consists of a field with a path through it, a thick hedge, a spreading oak, a
             lofty, awkward stile, and a distant view of the country. The living characters are a
             young lady and gentleman, who are to be supposed as taking a lover’s walk.</p>
@@ -76,9 +76,9 @@
             fulfilled as far as I have hitherto proceeded in the journey of life. I am as yet a
             single man, and my own opinion is, that I shall continue to keep at a very respectful
             distance from the hymeneal alter. I must, however, acknowledge when I have been told by
-            some of my <emph rend="italic">new<emph>-married friends what an uncomfortable life I appear to
+            some of my <emph rend="italic">new</emph>-married friends what an uncomfortable life I appear to
             lead, that I have begun to waver a little in my partiality to a single state; but, on
-            the other hand, when some of my <emph rend="italic">old<emph>-married acquaintance have
+            the other hand, when some of my <emph rend="italic">old</emph>-married acquaintance have
             declared what an enviable life mine was, I have been confirmed in my design to go a
             bachelor to my grave. In this resolution I have lately been more than ever confirmed by
             the conduct of a near relation of mine, who was brought up to the sea and was very fond
@@ -109,8 +109,8 @@
             speculations, that matrimony is not only essential to the support, but the good order
             and happiness, of civil society. Thus matrimony forms families which could not be formed
             without it, and families form states which could not be formed without them. It was the
-            first <emph rend="italic">natural<emph> union which preceded and prepared mankind for
-                <emph rend="italic">civil<emph> union; and the bonds of the second union were more
+            first <emph rend="italic">natural</emph> union which preceded and prepared mankind for
+                <emph rend="italic">civil</emph> union; and the bonds of the second union were more
             effectually strengthened by those paternal and filial affection and consanguinity, than
             they could have been by those alone of accidental interests liable to vary, and of
             covenants liable to be broken.</p>
@@ -155,7 +155,7 @@
             perfect sympathy with its partner shews that it has, at last, been successful in its
             endeavours.</p>
         <p>From this very ingenious fable <persName>Dr. Watts</persName> borrowed the thought on
-            which he has founded his little poem entitled <emph rend="italic">Few happy Matches<emph>; and
+            which he has founded his little poem entitled <emph rend="italic">Few happy Matches</emph>; and
                 <persName>Hume</persName> has carried on and completed this fiction of the Greek
             philosopher with his characteristic ingenuity, and in the following manner:</p>
         <p>When Jupiter had separated the male from the female, and had quelled their pride and
@@ -175,7 +175,7 @@
             counsellor and favourite of Hymen was Care, who was continually filling his patron’ head
             with prospects of futurity, such as settlements, family, children, and domestic
             arrangements, so that little else was regarded in all the matches
-                <emph rend="italic">they<emph> made. On the other hand, Love had chosen Pleasure for his
+                <emph rend="italic">they</emph> made. On the other hand, Love had chosen Pleasure for his
             favourite, who proved as pernicious a counsellor as the other, and would never allow
             Love to look beyond the present momentary gratification or the satisfying the prevailing
             inclination. These two favourites became, in a very short time, irreconcileable enemies,
@@ -205,7 +205,7 @@
             fulfilled this great end of my creation, by qualifying honest <persName>Jack</persName>
             to do that for me which I feel such an apprehension of doing for myself; and that, under
             these circumstances, I may hope to die in peace, though I die</p>
-        <closer><signatures>AN OLD BACHELOR</signatures>.</closer></letter>
+        <closer><signatures>AN OLD BACHELOR</signatures>.</closer><!-- /letter -->
         </body>
     </text>
 </TEI>
