@@ -7,9 +7,9 @@
                     <editor>Dorothea Lint</editor>
                 </titleStmt>
                 <publicationStmt>
-                    <p>Digital edition hosted on <ref target=""
+                    <p>Digital edition hosted on <ref target="needed"
                         ></ref> and GitHub: <ref
-                            target=""
+                            target="needed"
                             ></ref></p>
                 </publicationStmt>
                 <sourceDesc>
@@ -62,9 +62,9 @@
         carried into effect. No one who reads it will hereafter deny, that an Old Maid is capable of
         the most friendly, generous, and kindly interesting conduct to the young, the lovely, and
         the accomplished of her own sex.</p>
-    <letter>
-        <opener>TO THE MODERN SPECTATOR, IN MR. ACKERMANN'S REPOSITORY OF ARTS, &amp;c.
-                <salute>SIR,</salute></opener>
+    <!-- letter -->
+        <!-- opener --><p>TO THE MODERN SPECTATOR, IN MR. ACKERMANN'S REPOSITORY OF ARTS, &amp;c.
+                <!--salute -->SIR,<!-- /salute --></p><!-- /opener -->
         <p>--I have long and repeatedly determined to address you on the subject of a plan I have in
             contemplation, and which I now offer to your serious, attentive, and, as I flatter
             myself, favourable, regard. But before it will be possible for you to give a judicious
@@ -173,10 +173,10 @@
             Scotland for many centuries.</p>
         <p>I remain, with great admiration of <persName>Mr. Ackermann</persName>'s <emph rend="italic">Repository</emph>, your
             most obedient and very humble servant,</p>
-        <persName>BEATRICE DE BEAUCHAMP.</persName>
-        <placeName>THIRTY-MILE COTTAGE</placeName>
-        <date value="1813-01-17">17th Jan. 1813.</date>
-    </letter>
+        <p><persName>BEATRICE DE BEAUCHAMP.</persName></p>
+        <p><placeName>THIRTY-MILE COTTAGE</placeName></p>
+        <p><date when="1813-01-17">17th Jan. 1813.</date></p>
+    <!-- /letter -->
             </body>
         </text>
 </TEI>

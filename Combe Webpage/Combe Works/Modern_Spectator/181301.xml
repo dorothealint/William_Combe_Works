@@ -7,9 +7,9 @@
                     <editor>Dorothea Lint</editor>
                 </titleStmt>
                 <publicationStmt>
-                    <p>Digital edition hosted on <ref target=""
+                    <p>Digital edition hosted on <ref target="needed"
                         ></ref> and GitHub: <ref
-                            target=""
+                            target="needed"
                             ></ref></p>
                 </publicationStmt>
                 <sourceDesc>
@@ -29,9 +29,10 @@
                     Pyramus illine,</l>
                 <l>Inque vicem fuerat captatus anhelitus oris.</l></quote>
             <bibl>OVID Met. l. iv. V.71.</bibl>
-            <translation><l>Here Pyramus, there gentle Thisbe strove</l>
+            <!-- translation --><quote>
+                <l>Here Pyramus, there gentle Thisbe strove</l>
                 <l>To catch each other’s breath, the balmy breeze of
-        love.</l></translation></cit></epigraph>
+                    love.</l></quote><!-- /translation --></cit></epigraph>
     <p>If my memory does not fail me, I have read somewhere, though I do not recollect in what
         author, the following curious description of a love-scene, or an animated courtship between
         two persons in an inferior class of life. It was acted in the face of any passenger in the
@@ -66,7 +67,7 @@
         I witnessed a most joyous scene, produced by a large gang of gypsies, who were celebrating a
         marriage which had taken place among that fraternity.</p>
     <p><persName>Hogarth</persName> has, with his inimitable pencil, in his series of prints, with
-        the title of <italics>Marriage a la Mode</italics>, displayed the courtship between nobility
+        the title of <emph rend="italic">Marriage a la Mode</emph>, displayed the courtship between nobility
         and wealth, ancient blood and vulgar origin, and an alliance between an house in
             <placeName>Grosvenorsquare</placeName> and a shop on <placeName>London bridge</placeName>. This idea of
         the varieties and motives of love-making, might furnish a numerous succession of serious,
@@ -83,7 +84,7 @@
         him more successful than he has hitherto been in his attempts to enter the Temple of Hymen.
         But I shall let him speak for himself, which he does, pretty much at large, in the following
         letter:</p>
-    <letter>TO THE MODERN SPECTATOR. Would-be Grove. SIR, <p>I am a young man--I beg your pardon for
+    <!-- letter --><p>TO THE MODERN SPECTATOR. Would-be Grove. SIR, </p><p>I am a young man--I beg your pardon for
             changing the expression, but to do myself justice, and to appear in my proper character
             to you, I am a young gentleman of twenty-three years of age, and possess an estate of
             eighteen hundred pounds a year, three hundred of which I farm myself, and am supposed to
@@ -166,7 +167,7 @@
             should be permitted to see her in the riding-dress. After thanking me for my gallantry,
             she said, that as the family were going into mourning for an aunt who was just dead, she
             had sent it to be dyed black. I immediately replied, that I could not but wish it had
-            been <italics>true blue</italics>. "Heavens forbid!" she cried, "for then I might be
+            been <emph rend="italic">true blue</emph>. "Heavens forbid!" she cried, "for then I might be
             supposed to belong to one or other of those stupid and stupefying creatures, the yeoman
             cavalry." At this I was perfectly astounded, as you must know, <persName>Mr.
                 Spectator</persName>, that blue is the colour to which I belong. I accordingly took
@@ -223,7 +224,7 @@
             the risque of being laughed at and ridiculed, one of these females I will certainly
             marry, and shortly too. You cannot, therefore, do me a greater favour than by sending an
             immediate answer to</p>
-        <close><p>Your most obedient, humble servant,</p></close>
+        <p>Your most obedient, humble servant,</p>
         <persName>WILLIAM WOULD-BE</persName>.</letter>
     <p>I was about to answer this letter, when I received a second, to inform me, that, without
         waiting for my answer, he had led the vicar’s daughter to the alter of Hymen, which was the

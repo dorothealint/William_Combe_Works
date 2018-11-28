@@ -7,9 +7,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -31,7 +31,7 @@
         </cit></epigraph>
     <p>The word <emph rend="italic">curiosity</emph>, as applied to an object, cannot fail to excite an
         agreeable sensation, as it suggests the desire or expectation of receiving satisfaction or
-        improvement. Thus the <italics>curiosities</italics> of the <placeName>Tower</placeName>, or
+        improvement. Thus the <emph rend="italic">curiosities</emph> of the <placeName>Tower</placeName>, or
             <placeName>Westminster Abbey</placeName>, or <placeName>Salmon’s Wax-Work</placeName>, or
             <placeName>Bullock’s Museum</placeName>, offer to different ages and characters a pleasing and
         useful source of information. But when we apply this self-same word to a disposition of the
@@ -63,7 +63,7 @@
         and shall consider a conviction of my error, under the influence of their reasoning, as an
         improvement of my understanding, and consequently as an addition to the happiness of my
         life.</p>
-    <letter>TO THE MODERN SPECTATOR. SIR, <p>I am a gentleman of studious character, scientific
+    <!-- letter --><p>TO THE MODERN SPECTATOR. SIR, </p><p>I am a gentleman of studious character, scientific
             pursuits, and independent fortune. My residence is in a narrow street, in a retired part
             of the town, which I preferred from the circumstance of a large house and handsome
             gardens, and some other conveniences suited to my favourite occupations, which the more
@@ -89,8 +89,8 @@
             servant, with a little smart girl of about ten years of age, who is said to be the
             grandchild of the elderly domestic; a circumstance on which I shall make no other
             observation, but that none of the neighbours believe it, and that the milkman who serves
-            both families, has figuratively declared to my wife’s <italics>femme de
-                chambre</italics>, a very chattering kind of body, that the girl is as like the
+            both families, has figuratively declared to my wife’s <emph rend="italic">femme de
+                chambre</emph>, a very chattering kind of body, that the girl is as like the
             eldest miss as two drops of cream. But this by the way.</p>
         <p><persName>Mr. Quicksight</persName> is an elderly man, of a very decent appearance; his
             good lady seems to be at least as old as himself, but dresses rather smart for her time
@@ -180,7 +180,7 @@
             possession of the very persons who were certainly not intended to have been favoured
             with the perusal of it.</p>
         <p>I shall hope to amuse you with a specimen of this extraordinary family journal.</p>
-        <journal><p>”THE BONHAMS.</p>
+        <!-- journal --><p>”THE BONHAMS.</p>
             <p>”<emph rend="italic">Saturday</emph>, May 1.—Nobody called all this morning but tradesmen,
                 who all seemed to have very <emph rend="italic">dunning</emph> faces. Some people had better
                 lay down their coach, and pay poor honest people what they owe them.</p>
@@ -190,8 +190,8 @@
                     <placeName>Kensington Gardens</placeName>. To be sure we must appear to be persons of
                 fashion!</p>
             <p>”Not a creature called during the evening.—A pretty stupid
-                    <italics>tete-a-tete</italics>, I’ll warrant you.</p>
-            <p>”<italics>Sunday</italics>.—The <persName>Bonhams</persName> all walk to church, with
+                    <emph rend="italic">tete-a-tete</emph>, I’ll warrant you.</p>
+            <p>”<emph rend="italic">Sunday</emph>.—The <persName>Bonhams</persName> all walk to church, with
                 their servants in their cock’d hats and best liveries.—A pretty deal of pride with
                 all this humility!</p>
             <p>”Sunday is the grand dinner day: a fine Christian way of keeping the Sabbath, with
@@ -210,8 +210,8 @@
                     Bonham</persName> to be acquainted with a bishop?—He must be some distant
                 relation; for we saw him very plainly in the drawing room, take the two children
                 upon his knees, and fondle them. He must be a good-natured, delightful man! O
-                heavens, how I do wish to be confirmed by him! Looked into <book>Debrett’s
-                    Peerage</book>, to see the coats of arms of the bishops, to discover who he is:
+                heavens, how I do wish to be confirmed by him! Looked into <!-- book -->Debrett’s
+                    Peerage<!-- /book -->, to see the coats of arms of the bishops, to discover who he is:
                 found him to be an <emph rend="italic">Irish bishop</emph>. O dear heart!—well I do think
                 that I would go to <placeName>Ireland</placeName> to be confirmed by him.—He staid two
                 hours.—I’ll be hanged if I have not found it out:--<persName>Fusty Bonham</persName>
@@ -226,19 +226,20 @@
                 did kiss her! and then he drew the curtains. The pot-boy at the Dragon says, it is
                 Bonham’s sister, arrived from <placeName>Yorkshire</placeName>: but I will not believe it;
                 brothers don’t kiss sisters in that way.</p>
-            <p>”<italics>Wednesday</italics>.—Mem. Neither butcher, nor butterer, nor fishmonger,
+            <p>”<emph rend="italic">Wednesday</emph>.—Mem. Neither butcher, nor butterer, nor fishmonger,
                 has called at the B------‘s this week. They have of course been living for these
                 three days on the remains of Sunday’s dinner. Some people may be satisfied with a
                 good dinner once a week, so that they ride in their coach the other
-            six.”</p></journal>
+            six.”</p><!-- /journal -->
         <p>I shall trouble you, <persName>Mr. Spectator</persName>, with no more of this curious
             manuscript. But, without suffering my comforts to be affected by such ignorant and
             worthless people, I cannot help considering their conduct as a nuisance, which ought to
             be removed. Now, as there is no method of presenting them by a grand jury, suffer me to
             present them in this manner to you; and I am confident that you will receive the
             acknowledgments of many others besides those of</p>
-        <closing><p>Your obliged, humble servant,</p></closing>
-        <persName>Augustus Bonham</persName>. <p>I cannot, <persName>Mr. Spectator</persName>,
+        <p>Your obliged, humble servant,</p>
+        <p><persName>Augustus Bonham</persName></p>
+            <p>I cannot, <persName>Mr. Spectator</persName>,
             resist calling your further attention to a circumstance which took place within a couple
             of hours after I had written the rough draft of the foregoing letter.</p>
         <p>Being in my laboratory, pursuing some chemical experiments, a smart young man was
@@ -268,7 +269,7 @@
             attention of <persName>Miss Wilhelmina Quicksight</persName>. Of the threatened
             prosecution I have heard nothing, but I understand that the baker has summoned the
             attorney to the court of conscience for the injury done to his bread.</p>
-    </letter>
+    <!-- /letter -->
         </body>
     </text>
 </TEI>

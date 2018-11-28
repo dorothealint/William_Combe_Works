@@ -7,9 +7,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -33,7 +33,9 @@
                 <l>Impulsu, et caeca magnaque cupidine ducti,</l> Conjugum petimus, partumque
                 uxoris; ut illis <l> Notum, qui pueri, qualisque future sit
                     uxor.</l>--------<bibl>JUV. <emph rend="italic">Sat. X. ver. 347</emph></bibl></quote>
-            <translation><l> Entrust thy fortune to the powers above;</l>
+            <!-- translation -->
+                <quote>
+                <l> Entrust thy fortune to the powers above;</l>
                 <l>Leave them to manage for thee, and to grant </l>
                 <l>What their unerring wisdom sees thee want:</l>
                 <l>In goodness, as in greatness they excel: </l>
@@ -42,7 +44,7 @@
                 <l>Are not for action, and desire to wed; </l>
                 <l>Then wish for heirs, but to the gods alone</l>
                 <l>Our future offspring and our wives are
-                known.</l>-------<bibl>DYRDEN.</bibl></translation></cit></epigraph>
+                    known.</l>-------<bibl>DYRDEN.</bibl></quote><!-- end translation --></cit></epigraph>
     <p>So numerous are my correspondents, that if I had not determined to take them according to the
         date of their arrival, I should be in a state of continual perplexity. Nay, as it is, if
             <persName>Mr. Ackermann</persName> was to publish his admirable miscellany every week,

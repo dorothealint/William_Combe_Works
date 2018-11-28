@@ -7,9 +7,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -32,14 +32,15 @@
                 <l>Projicit ampullas ac sesquipedalian verba,</l>
                 <l>Si curat cor spectantis tetigisse querela.</l>--------<bibl>HOR. <emph rend="italic">Ars.
                         Poet.</emph></bibl></quote>
-            <translation><l>Yet Comedy sometimes her voice may raise, </l>
+            <!-- translation --><quote>
+                <l>Yet Comedy sometimes her voice may raise, </l>
                 <l>And angry Chremes rail in swelling phrase: </l>
                 <l>As oft the tragic language humbly flows;</l>
                 <l>For Telephus or Peleus, midst the woes</l>
                 <l>Of poverty or exile, must complain </l>
                 <l> In prose-like style, must quit the swelling strain,</l>
                 <l>And <emph rend="italic">words gigantic</emph>, if with Nature’s art</l>
-                <l>They hope to touch the melting hearer’s heart.</l></translation></cit></epigraph>
+                <l>They hope to touch the melting hearer’s heart.</l></quote><!-- end translation --></cit></epigraph>
     <p>Among the peculiar characteristics of modern literature, if literature it may be called, is
         the employment of long words and bombastic expressions; beneath which, the ignorance of many
         of those who call themselves literary men, contrives, among the class of their readers, to
@@ -81,7 +82,7 @@
         thoughts, or long words to short sentiments, I do not presume to enquire. But be the motive
         to this composition what it may, I am disposed to think that its uncommon and happy
         arrangement of pleasing expressions will entertain others as it has amused me.</p>
-    <letter>TO THE MODERN SPECTATOR. PARLIAMENT-COURT, Artillery-place, Aldersgate street. SIR,
+    <!-- letter --><p>TO THE MODERN SPECTATOR. PARLIAMENT-COURT, Artillery-place, Aldersgate street. SIR,</p>
             <p>The association between the accumulations of science, the scintillations of wit, and
             the coruscations of genius, which are so perceptible in your monthly effusions, together
             with that graciousness o encouragement which you manifest with such a characteristic
@@ -115,12 +116,12 @@
             whether my meditations are to be condensed in any of your future pages. I beg you will
             permit me to conclude with a sonorous, comprehensive, and respectful declaration, that I
             am your most obedient, humble servant,</p>
-        <persName>Aaron Turgid</persName></letter>
+        <p><persName>Aaron Turgid</persName></p><!-- /letter -->
     <p>I think it right to insert the following letter, though I am by no means qualified to answer
         the query. If my correspondent has a fancy for a lawsuit, and wishes to keep a court of
         justice in a roar of laughter, let him transfer the question from me to the first attorney
         he meets, and he will be completely gratified.</p>
-    <letter>TO THE MODERN SPECTATOR. <placeName>FINSBURY-SQUARE.</placeName> SIR, <p>I am a respectable
+    <!-- letter --><p>TO THE MODERN SPECTATOR. <placeName>FINSBURY-SQUARE.</placeName> SIR, </p><p>I am a respectable
             wholesale dealer in the city, and having taken my son into partnership, I can now and
             then spare a few weeks to go to the sea-side, as salt water has been successfully
             recommended to me for a scorbutic habit of body, with which I have been afflicted for
@@ -179,7 +180,7 @@
             be able to advise me on the subject, without having a professional interest to answer.
             In so doing, you will greatly oblige</p>
         <p>Your constant reader,</p>
-        <persName>TIMOTHY SMOKER</persName>.</letter>
+        <p><persName>TIMOTHY SMOKER</persName>.</p><!-- /letter -->
         </body>
     </text>
 </TEI>

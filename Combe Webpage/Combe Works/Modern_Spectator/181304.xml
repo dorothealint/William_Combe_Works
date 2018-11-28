@@ -7,9 +7,9 @@
                 <editor>Dorothea Lint</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Digital edition hosted on <ref target=""
+                <p>Digital edition hosted on <ref target="needed"
                     ></ref> and GitHub: <ref
-                        target=""
+                        target="needed"
                         ></ref></p>
             </publicationStmt>
             <sourceDesc>
@@ -32,14 +32,15 @@
                 <l>Limus ut his durescit, et haec ut cera liquescit,</l>
                 <l>Uno eodemque igni; sic nostro Daphnis
                 amore.</l>--------<bibl>VIRGIL</bibl></quote>
-            <translation><l>Three colours weave in threefold knots, and cry, </l>
+            <!-- translation --><quote>
+                <l>Three colours weave in threefold knots, and cry, </l>
                 <l>”In threefold bond this true-love’s knot I tie.”</l>
                 <l>As the same fire makes hard this cake of clay,</l>
                 <l>In which this waxen image melts away;</l>
                 <l>Thus, god of love, be my true shepherd’s breast</l>
                 <l>Soft to my flame, but hard to all the rest</l>
                 <l>Ye songs, spells, philters, amulets, and charms,</l>
-                <l>Bring, quickly bring my Daphnis to my arms.</l></translation></cit></epigraph>
+                <l>Bring, quickly bring my Daphnis to my arms.</l><!-- /translation --></quote></cit></epigraph>
     <p>The passions lead us into error, among other obvious causes, because they fix our attention
         to that particular part of the object which they present to us, blinding our eyes, as it
         were, to every other side of it. A sovereign, passionately ambitious of the name of
@@ -120,10 +121,10 @@
     <p><persName>Deborah Doubtnot</persName> informs me, that having slept in a strange bed the
         other night, she tied her garter nine times round the bed-post, and knit nine knots in it,
         and the repeated to herself,</p>
-    <spell><l>This knot I knit, this knot I tie,</l>
+    <!-- spell --><l>This knot I knit, this knot I tie,</l>
         <l>To see my love as he goes by,</l>
         <l>In his apparel and array</l>
-        <l>As he walks in every day.</l></spell>
+        <l>As he walks in every day.</l><!-- /spell -->
     <p>She accordingly saw <persName>Mr. Trusty</persName> pass by the house as she was dressing
         herself at the window the next morning. She at the same time requests me to tell her, as
         this gentleman was going to the drill, he being one of the volunteer association, whether
@@ -150,7 +151,7 @@
         fancies to their proper origin; though they seem to me, in one way or other, to be of the
         most remote antiquity.</p>
     <p>I shall now proceed to a fair correspondent, of a very different character.</p>
-    <letter>TO THE MODERN SPECTATOR. SIR, <p>I am perfectly aware of the enquiring eye of the world,
+    <!-- letter --><p>TO THE MODERN SPECTATOR. SIR, </p><p>I am perfectly aware of the enquiring eye of the world,
             and the remarks to which a lady subjects herself on addressing a gentleman previous to
             any personal acquaintance; but however that may be, where intellectual acquirement is
             the object, it strikes me as a mark of cowardice, not to pursue it. Besides, I have no
@@ -195,8 +196,8 @@
             help having the name which my parents gave me, but I desire you will not entertain an
             unfavourable impression of me, because I am compelled to subscribe myself, your obliged
             humble servant,</p>
-        <persName>FANNY WAVER</persName>
-    </letter>
+        <p><persName>FANNY WAVER</persName></p>
+    <!-- /letter -->
     <p>Whether my fair correspondent is serious or jocose; whether she is quizzing me, or flattering
         me, or is seriously disposed to form an acquaintance with me, from any favourable
         impressions which my writings may have been so fortunate as to make on her mind, I really

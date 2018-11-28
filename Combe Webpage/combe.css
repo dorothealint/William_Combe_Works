@@ -16,11 +16,6 @@ body {
     display: flex;
     justify-content: center;
 }
-.amelia-footer{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-}
 .combeText {
     width: 100%;
     display: flex;
@@ -62,4 +57,15 @@ body {
 .content{
     margin: 0 auto;
     text-align: center;
+}
+.footer-container{
+    width: 100%;
+    background-color: #6EC4DB;
+    color: #FFF7C0;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.amelia-footer{
+    display: inherit;
 }
