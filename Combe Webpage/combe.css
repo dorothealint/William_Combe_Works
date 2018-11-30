@@ -8,7 +8,6 @@ body {
     margin: 0;
     font-family: 'Arial', sans-serif;
     font-size: 20px;
-    margin-bottom: 50px;
 }
 .menu-container{
     color: #FFF7C0;
@@ -77,6 +76,5 @@ body {
     background-color: #6EC4DB;
     color: #FFF7C0;
     text-align: center;
-    clear: both;
     height: 72px;
 }
