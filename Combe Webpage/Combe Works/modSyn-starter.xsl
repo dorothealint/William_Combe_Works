@@ -15,12 +15,15 @@
             <head>
                 <title>Combe Project| <xsl:value-of select=".//bibl/date/@when"/></title>
                 <link rel="stylesheet" href="combe.css" />
+                <script type="text/javascript" src="combe.js" xml:space="preserve"></script>
             </head>
             <body>
-                <!-- SSI line below -->
-                <!--#include virtual="top.html" -->
-                <!-- SSI line below -->
-                <!--#include virtual="spectatorLinks.html" -->
+                <xsl:comment> SSI line below</xsl:comment>
+                <xsl:comment>#include virtual="top.html" </xsl:comment>
+                <xsl:comment> SSI line below</xsl:comment>
+                <xsl:comment>#include virtual="spectatorLinks.html" </xsl:comment>
+                <xsl:comment> SSI line below</xsl:comment>
+                <xsl:comment>#include virtual="msToggleSSI.html" </xsl:comment>
                 <div class="body-container">
                     <div class="text-container">
                         <div class="content">
@@ -34,6 +37,9 @@
         </html>
     </xsl:template>
     
+    <xsl:template match="l">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
     <xsl:template match="label">
         <p><xsl:apply-templates/></p>
     </xsl:template>
@@ -42,20 +48,31 @@
     </xsl:template>
     <xsl:template match="signatures">
         <div class="signature">
-            <p><xsl:apply-templates/></p>
+            <xsl:apply-templates/>
         </div>
     </xsl:template>
     <xsl:template match="closer">
-        <p><xsl:apply-templates/></p>
+        <div class="closer">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
-    <xsl:template match="l">
-        <p><xsl:apply-templates/></p>
+    <xsl:template match="epigraph">
+        <div class="epigraph">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="bibl">
-        <p><xsl:apply-templates/></p>
+        <div class="signatures">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
-    
+    <xsl:template match="byline">
+        <div class="byline">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+
 </xsl:stylesheet>

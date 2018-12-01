@@ -4,7 +4,6 @@ function init() {
         fieldset[i].addEventListener('click', toggle, false);
     }
 }
-
 function toggle() {
     var id = this.id;
     switch (id) {
@@ -59,3 +58,4 @@ function toggle() {
         break;
     }
 }
+window.onload = init;

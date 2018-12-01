@@ -76,5 +76,18 @@ body {
     background-color: #6EC4DB;
     color: #FFF7C0;
     text-align: center;
-    height: 72px;
+    height: 60px;
 }
+.modern-spectator-sidebar{
+    background-color: #6EC4DB;
+    position: fixed;
+    width: 12.5%;
+    font-size: 15px;
+}
+span.emph.on {color: red}
+span.persName.on {color: red}
+span.placeName.on {color: red}
+span.signatures.on {color: red}
+span.epigraph.on{background-color: white}
+span.letter.on{background-color: white}
+span.byline.on{background-color: white}
