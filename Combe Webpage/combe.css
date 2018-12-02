@@ -63,8 +63,8 @@ body {
 .footer-container{
     position: fixed;
     left: 0;
-    bottom: 0;
-    width: 100%;
+    width: 12.5%;
+    background-color: #6EC4DB;
 }
 .amelia-footer{
     background-color: #6EC4DB;
@@ -72,18 +72,44 @@ body {
     text-align: center;
     padding: 3px;
 }
-.spectator-footer{
+.msDirectory {
+    position: fixed;
+    left: 0;
     background-color: #6EC4DB;
-    color: #FFF7C0;
+    font-size: 15px;
+    width: 12.5%;
     text-align: center;
-    height: 60px;
+    color: white;
+}
+.accordion {
+    background-color: #6EC4DB;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+.active, .accordion:hover {
+    background-color: #2e9ab8;
+}
+.panel {
+    color: #6EC4DB;
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
 }
 .modern-spectator-sidebar{
     background-color: #6EC4DB;
+    color: white;
     position: fixed;
-    width: 12.5%;
+    left: 87.5%;
     font-size: 15px;
-}
+    width: 12.5%;
+    }
 span.emph.on {color: red}
 span.persName.on {color: red}
 span.placeName.on {color: red}
