@@ -47,25 +47,25 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="signatures">
-        <div class="signature">
+        <span class="signature">
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     <xsl:template match="closer">
-        <div class="closer">
+        <span class="closer">
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     <xsl:template match="epigraph">
-        <div class="epigraph">
+        <span class="epigraph">
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="bibl">
-        <div class="signatures">
+        <div class="signature">
             <xsl:apply-templates/>
         </div>
     </xsl:template>

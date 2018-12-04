@@ -1,59 +1,58 @@
 function init() {
-    var fieldset = document.getElementsByTagName ('');
-    for (var i = 0; i < fieldset.length; i++) {
-        fieldset[i].addEventListener('click', toggle, false);
-    }
+    var fieldset = document.getElementsByTagName ('input');
+    for (var i = 0; i < fieldset.length; i++)
+    {fieldset[i].addEventListener('click', toggle, false);}
 }
 function toggle() {
     var id = this.id;
+    var italics = document.getElementsByClassName("emph");
+    var chars = document.getElementsByClassName("persName");
+    var places = document.getElementsByClassName("placeName");
+    var signatures = document.getElementsByClassName("signature");
+    var epigraphs = document.getElementsByClassName("epigraph");
+    var letters = document.getElementsByClassName("letter");
+    var bylines = document.getElementsByClassName("byline");
     switch (id) {
         case "ITALtoggle": {
-            var italics = document.getElemenetsByClassName("emph");
-            for (var i = 0; i < italics.length; i++) {
-                italics[i].classList.toggle("on")
-            }
+            var k;
+            for (var k = 0; k < italics.length; e++)
+            {italics[k].classList.toggle("on")}
         };
         break;
         case "CHARtoggle": {
-            var chars = document.getElementsByClassName("persName");
-            for (var i = 0; i < chars.length; i++) {
-                chars[i].classList.toggle("on")
-            }
+            var k;
+            for (var k = 0; k < chars.length; e++)
+            {chars[k].classList.toggle("on")}
         };
         break;
         case "PLtoggle": {
-            var places = document.getElementsByClassName("placeName");
-            for (var i = 0; i < places.length; i++) {
-                places[i].classList.toggle("on")
-            }
+            var k;
+            for (var k = 0; k < places.length; e++)
+            {places[k].classList.toggle("on")}
         };
         break;
         case "SIGtoggle": {
-            var signatures = document.getElementsByClassName("signatures");
-            for (var i = 0; i < signatures.length; i++) {
-                signatures[i].classList.toggle("on")
-            }
+            var k;
+            for (var k = 0; k < signatures.length; e++)
+            {signatures[k].classList.toggle("on")}
         };
         break;
         case "EPItoggle": {
-            var epigraph = document.getElementsByClassName("epigraph");
-            for (var i = 0; i < epigraph.length; i++) {
-                epigraph[i].classList.toggle("on")
-            }
+            var k;
+            for (var k = 0; k < epigraphs.length; e++)
+            {epigraphs[k].classList.toggle("on")}
         };
         break;
         case "LETtoggle": {
-            var letter = document.getElementsByClassName("letter");
-            for (var i = 0; i < letter.length; i++) {
-                letter[i].classList.toggle("on")
-            }
+            var k;
+            for (var k = 0; k < letters.length; e++)
+            {letters[k].classList.toggle("on")}
         };
         break;
         case "BYtoggle": {
-            var byline = document.getElementsByClassName("byline");
-            for (var i = 0; i < byline.length; i++) {
-                byline[i].classList.toggle("on")
-            }
+            var k;
+            for (var k = 0; k < bylines.length; e++)
+            {bylines[k].classList.toggle("on")}
         };
         break;
     }
