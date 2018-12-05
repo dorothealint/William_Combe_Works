@@ -12,47 +12,75 @@ function toggle() {
     var epigraphs = document.getElementsByClassName("epigraph");
     var letters = document.getElementsByClassName("letter");
     var bylines = document.getElementsByClassName("byline");
+    var opener = document.getElementsByClassName("opener");
+    var dash = document.getElementsByClassName("longdash");
+    var poem = document.getElementsByClassName("poem");
+    var closer = document.getElementsByClassName("closer");
     switch (id) {
         case "ITALtoggle": {
-            var k;
-            for (var k = 0; k < italics.length; e++)
-            {italics[k].classList.toggle("on")}
+            var i;
+            for (var i = 0; i < italics.length; i++)
+            {italics[i].classList.toggle("on")}
         };
         break;
         case "CHARtoggle": {
-            var k;
-            for (var k = 0; k < chars.length; e++)
-            {chars[k].classList.toggle("on")}
+            var i;
+            for (var i = 0; i < chars.length; i++)
+            {chars[i].classList.toggle("on")}
         };
         break;
         case "PLtoggle": {
-            var k;
-            for (var k = 0; k < places.length; e++)
-            {places[k].classList.toggle("on")}
+            var i;
+            for (var i = 0; i < places.length; i++)
+            {places[i].classList.toggle("on")}
         };
         break;
         case "SIGtoggle": {
-            var k;
-            for (var k = 0; k < signatures.length; e++)
-            {signatures[k].classList.toggle("on")}
+            var i;
+            for (var i = 0; i < signatures.length; i++)
+            {signatures[i].classList.toggle("on")}
         };
         break;
         case "EPItoggle": {
-            var k;
-            for (var k = 0; k < epigraphs.length; e++)
-            {epigraphs[k].classList.toggle("on")}
+            var i;
+            for (var i = 0; i < epigraphs.length; i++)
+            {epigraphs[i].classList.toggle("on")}
         };
         break;
         case "LETtoggle": {
-            var k;
-            for (var k = 0; k < letters.length; e++)
-            {letters[k].classList.toggle("on")}
+            var i;
+            for (var i = 0; i < letters.length; i++)
+            {letters[i].classList.toggle("on")}
         };
         break;
         case "BYtoggle": {
-            var k;
-            for (var k = 0; k < bylines.length; e++)
-            {bylines[k].classList.toggle("on")}
+            var i;
+            for (var i = 0; i < bylines.length; i++)
+            {bylines[i].classList.toggle("on")}
+        };
+        break;
+        case "OPENtoggle": {
+            var i;
+            for (var i = 0; i < opener.length; i++)
+            {opener[i].classList.toggle("on")}
+        };
+        break;
+        case "LDtoggle": {
+            var i;
+            for (var i = 0; i < dash.length; i++)
+            {dash[i].classList.toggle("on")}
+        };
+        break;
+        case "POEMtoggle": {
+            var i;
+            for (var i = 0; i < poem.length; i++)
+            {poem[i].classList.toggle("on")}
+        };
+        break;
+        case "CLOStoggle": {
+            var i;
+            for (var i = 0; i < closer.length; i++)
+            {closer[i].classList.toggle("on")}
         };
         break;
     }

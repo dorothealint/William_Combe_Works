@@ -17,10 +17,10 @@
                 <link rel="stylesheet" href="combe.css" />
             </head>
             <body>
-                <!-- SSI line below -->
-                <!--#include virtual="top.html" -->
-                <!-- SSI line below -->
-                <!--#include virtual="ameliaLinks.html" -->
+                <xsl:comment> SSI line below </xsl:comment>
+                <xsl:comment>#include virtual="top.html" </xsl:comment>
+                <xsl:comment> SSI line below </xsl:comment>
+                <xsl:comment>#include virtual="ameliaLinks.html" </xsl:comment>
                 <div class="body-container">
                     <div class="text-container">
                         <div class="content">
@@ -40,15 +40,16 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="signatures">
-        <div class="signature">
-            <p><xsl:apply-templates/></p>
-        </div>
+        <p><span class="signature"><xsl:apply-templates/></span></p>
     </xsl:template>
     <xsl:template match="closer">
-        <p><xsl:apply-templates/></p>
+        <p><span class="closer"><xsl:apply-templates/></span></p>
+    </xsl:template>
+    <xsl:template match="emph">
+        <span class="emph"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="l">
-        <p><xsl:apply-templates/></p>
+        <span class="poem"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>

@@ -11,24 +11,42 @@ body {
 }
 .menu-container{
     color: #FFF7C0;
-    background-color: #6EC4DB;
-    display: flex;
-    justify-content: center;
+    top: 0%;
+    width: 100%;
     font-size: 17px;
 }
-.combeText {
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
+.menu{
+    background-color: #6EC4DB;
+}
+.combeText{
+    position: relative;
+    background-color: #6EC4DB;
+    left: 20%;
+    padding: 3px;
 }
 .links{
     width: 100%;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin-left: 20px;
-    padding: 14px 16px;
 }
+.links-container{
+    position: fixed;
+    background-color: #6EC4DB;
+    width: 74.3%;
+    left: 12.5%;
+    text-align: center;
+    padding: 5px;
+    top: 0%;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 12.5%;
+    width: 74.3%;
+    text-align: center;
+    font-size: 17px;
+    overflow: hidden;
+}
+.links a.hover{background-color: #2e9ab8}
+.links a.active{background-color: #2e9ab8}
 .picture-box{
     display: flex;
     justify-content: space-around;
@@ -60,7 +78,7 @@ body {
 .footer-container{
     position: fixed;
     left: 12.5%;
-    bottom: 0;
+    bottom: 0%;
     width: 75%;
     background-color: #6EC4DB;
 }
@@ -114,25 +132,15 @@ body {
     font-size: 15px;
     width: 12.5%;
     }
-.sticky {
-    position: fixed;
-    top: 0;
-    left: 11%;
-    width: 72.7%;
-    align-items: center;
-    font-size: 17px;
-}
-#navbar {
-    overflow: hidden;
-    background: #6EC4DB;
-}
-#navbar a.hover{background-color: #2e9ab8}
-#navbar a.active{background-color: #2e9ab8}
 .license{font-size: 15px}
-span.persName.on {color: red}
-span.emph.on {color: red}
-span.placeName.on {color: red}
-span.signatures.on {color: red}
+span.persName.on{color: red}
+span.emph.on{color: red}
+span.placeName.on{color: red}
+span.signature.on{color: red}
+span.closer.on{background-color:red}
+span.poem.on{color:red}
+span.longdash.on{color:red}
+span.opener.on{background-color:red}
 span.epigraph.on{background-color: white}
 span.letter.on{background-color: white}
 span.byline.on{background-color: white}
