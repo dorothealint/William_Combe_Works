@@ -91,7 +91,7 @@
         picture of a country life from that which appeared in my last paper. It is equally founded
         in nature and in truth, and will, I hope, restore me to the good opinion of those of my
         readers whom I appear, though I must think very undeservedly, to have offended.</p>
-    <!-- letter --><p>TO THE MODERN SPECTATOR.</p>
+    <!-- letter --><div type="letter"><p>TO THE MODERN SPECTATOR.</p>
         <p>Sir,--Without meaning to question the probability of the account which you gave of the
                 <persName>Overhill</persName> family in your last number, I beg leave to offer you
             the representation of a country family, which, I hope, will redeem provincial life from
@@ -198,7 +198,7 @@
         <p>To enjoy mirth without noise, conversation without calumny, luxury without extravagance,
             elegance without vanity, and pleasure without repentance, was my happy lot during the
             month which I passed at <placeName>Goodington Parsonage</placeName>.</p>
-        <closer><signatures><persName>SAMUEL LOVEL</persName>.</signatures></closer><!-- /letter -->
+        <closer><signatures><persName>SAMUEL LOVEL</persName>.</signatures></closer></div><!-- /letter -->
         </body>
     </text>
 </TEI>

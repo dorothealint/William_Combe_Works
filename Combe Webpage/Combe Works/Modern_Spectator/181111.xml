@@ -111,7 +111,7 @@
         beauty. That my fair correspondent possesses the former, her letter sufficiently proves; and
         that she is adorned with the latter, I am most willing to believe, as I have her own
         authority for it.</p>
-    <!-- letter --><p>Mr. SPECTATOR,</p>
+    <!-- letter --><div type="letter"><p>Mr. SPECTATOR,</p>
         <p>It is now six months, sir, since I attained twenty-one years of age, and I have reason to
             believe, from other information besides that of my looking-glass, that I am very
             handsome. Nor am I without the accomplishments that proceed from a fashionable
@@ -271,7 +271,7 @@
             concluded; and then the business will be done in a few weeks.</p>
         <p>It will not be long, I trust, after such a result takes place, that I shall have to thank
             you for assisting me in this great and good work, under another name than that of</p>
-        <closer><signatures><persName>ARABELLA LANGUISH</persName></signatures></closer><!-- /letter -->
+        <closer><signatures><persName>ARABELLA LANGUISH</persName></signatures></closer></div><!-- /letter -->
         </body>
     </text>
 </TEI>

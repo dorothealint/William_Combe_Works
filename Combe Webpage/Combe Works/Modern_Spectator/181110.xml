@@ -33,7 +33,7 @@
             <l><emph rend="italic">Hail</emph>, wedded love!</l>
                 <!-- source --><emph rend="italic">A Country Newspaper</emph><!-- /source -->.</quote></cit></epigraph>
     <p>I OFFER the following letter without any prefatory remarks to my readers.</p>
-    <!-- letter --><p><persName>Mr. SPECTATOR</persName>, </p><p>I have somewhere read of a good woman, who, on
+    <!-- letter --><div type="letter"><p><persName>Mr. SPECTATOR</persName>, </p><p>I have somewhere read of a good woman, who, on
             coming from church after she had been married, exclaimed most emphatically, “Thank
             heaven! the troublesome business of love is <emph rend="italic">now</emph> at an end.” It has
             also been said, in the same spirit, that lovers are no less altered by marriage than
@@ -205,7 +205,7 @@
             fulfilled this great end of my creation, by qualifying honest <persName>Jack</persName>
             to do that for me which I feel such an apprehension of doing for myself; and that, under
             these circumstances, I may hope to die in peace, though I die</p>
-        <closer><signatures>AN OLD BACHELOR</signatures>.</closer><!-- /letter -->
+        <closer><signatures><persName>AN OLD BACHELOR</persName></signatures>.</closer></div><!-- /letter -->
         </body>
     </text>
 </TEI>

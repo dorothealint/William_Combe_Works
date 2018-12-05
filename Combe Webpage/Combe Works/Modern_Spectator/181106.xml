@@ -67,7 +67,7 @@
         fancied dreams of rural virtue and pastoral innocence.</p>
     <p>These thoughts have been suggested by a letter which I have received from the country, and
         which I shall, without any further observation, present to my readers.</p>
-    <!-- letter --><p>TO THE MODERN SPECTATOR. Sir, </p><p>As you have invited correspondents, I beg leave to
+    <!-- letter --><div type="letter"><p>TO THE MODERN SPECTATOR. Sir, </p><p>As you have invited correspondents, I beg leave to
             become one of them. The history of my perplexities may not perhaps be unamusing; as, had
             they happened to another, they would probably have been entertaining to myself.</p>
         <p>A life of commercial business had confined me to <placeName>London</placeName> and its immediate
@@ -166,7 +166,7 @@
             concluded; and when I took leave of my hospitable relations, for hospitable they were, 1
             seemed to find tranquillity on a turnpike road and in a public inn.</p>
         <p>I am your obedient servant,</p>
-        <closer><signatures><persName>HENRY TRUEMAN.</persName></signatures></closer><!-- /letter -->
+        <closer><signatures><persName>HENRY TRUEMAN.</persName></signatures></closer></div><!-- /letter -->
         </body>
     </text>
 </TEI>
