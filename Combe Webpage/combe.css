@@ -13,40 +13,85 @@ body {
     color: #FFF7C0;
     top: 0%;
     width: 100%;
-    font-size: 17px;
+    font-size: 16px;
 }
 .menu{
     background-color: #6EC4DB;
+    padding: 10px;
 }
 .combeText{
     position: relative;
     background-color: #6EC4DB;
     left: 20%;
-    padding: 3px;
-}
-.links{
-    width: 100%;
 }
 .links-container{
     position: fixed;
     background-color: #6EC4DB;
-    width: 74.3%;
-    left: 12.5%;
+    width: 100%;
+    height: 7.3%;
     text-align: center;
-    padding: 5px;
     top: 0%;
+    left: 0%;
 }
-.sticky {
+.links{
     position: fixed;
-    top: 0;
-    left: 12.5%;
-    width: 74.3%;
+    top: 0%;
+    left: 30%;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #6EC4DB;
+    align-items: center;
+    width: 100%;
+}
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
     text-align: center;
-    font-size: 17px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.dropdown {
+    float: left;
     overflow: hidden;
 }
-.links a.hover{background-color: #2e9ab8}
-.links a.active{background-color: #2e9ab8}
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #2e9ab8;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    float: none;
+    color: #2e9ab8;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.dropdown-content a:hover {
+    background-color: #2e9ab8;
+    color: white;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
 .picture-box{
     display: flex;
     justify-content: space-around;
@@ -94,6 +139,7 @@ body {
 }
 .msDirectory {
     position: fixed;
+    top: 0%;
     left: 0;
     background-color: #6EC4DB;
     font-size: 15px;
@@ -122,7 +168,8 @@ body {
     display: none;
     overflow: hidden;
 }
-.modern-spectator-sidebar{
+.toggleSidebar{
+    top: 4%;
     background-color: #6EC4DB;
     color: white;
     border: none;
@@ -142,5 +189,5 @@ span.poem.on{color:red}
 span.longdash.on{color:red}
 span.opener.on{background-color:red}
 span.epigraph.on{background-color: white}
-span.letter.on{background-color: white}
+.letter.on{background-color: white}
 span.byline.on{background-color: white}

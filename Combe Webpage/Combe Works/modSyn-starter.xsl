@@ -47,32 +47,31 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="signatures">
-        <span class="signature">
-            <xsl:apply-templates/>
-        </span>
+        <span class="signature"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="closer">
-        <span class="closer">
-            <xsl:apply-templates/>
-        </span>
+        <span class="closer"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="epigraph">
-        <span class="epigraph">
-            <xsl:apply-templates/>
-        </span>
+        <span class="epigraph"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="bibl">
-        <div class="signature">
-            <xsl:apply-templates/>
-        </div>
+        <span class="bibl"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="byline">
-        <div class="byline">
-            <xsl:apply-templates/>
-        </div>
+        <span class="byline"><xsl:apply-templates/></span>
+    </xsl:template>
+    <xsl:template match="emph">
+        <span class="emph"><xsl:apply-templates/></span>
+    </xsl:template>
+    <xsl:template match="persName">
+        <span class="persName"><xsl:apply-templates/></span>
+    </xsl:template>
+    <xsl:template match="placeName">
+        <span class="placeName"><xsl:apply-templates/></span>
     </xsl:template>
 
 </xsl:stylesheet>

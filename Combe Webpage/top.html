@@ -5,21 +5,35 @@
             <a href="index.html"><img src="Pictures/combeHeaderText.png" height="200"/></a>
         </div>
     </div>
-    <div class="links-container" id="navbar">
+    <div class="links-container">
         <div class="links">
-            <a href="index.html">Home</a> | <!-- <a href="about_combe.html"> -->About Combe | <a href="spectator.html">Modern Spectator</a> | 
-            <a href="amelia.html">Amelia's Letters</a> | <a href="syntax1.html">Doctor Syntax</a> | <!-- <a href="april.html"> -->First of April | 
-            <!-- <a href="about_the_team.html"> -->About the Team
+            <div class="navbar">
+                <a href="index.html">Home</a>
+                <a>About Combe </a>
+                <div class="dropdown">
+                    <button class="dropbtn">Works
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a href="spectator.html">Modern Spectator</a>
+                        <a href="amelia.html">Amelia's Letters</a>
+                        <a href="syntax1.html">Doctor Syntax</a>
+                        <a>First of April</a>
+                        <a>Lord Craven</a>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <button class="dropbtn">Analysis
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                    <div class="dropdown-content">
+                        <a>Timeline</a>
+                        <a>Epigraphs</a>
+                        <a>Signatures</a>
+                    </div>
+                </div>
+                <a>About the Team</a>
+            </div>
         </div>
     </div>
-    <script>
-        window.onscroll = function() {myFunction()};
-        var navbar = document.getElementById("navbar");
-        var sticky = navbar.offsetTop;
-        function myFunction()
-        {if (window.pageYOffset > sticky)
-        {navbar.classList.add("sticky")}
-        else {navbar.classList.remove("sticky");}
-        }
-    </script>
 </div>

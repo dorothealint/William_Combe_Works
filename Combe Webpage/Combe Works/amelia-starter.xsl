@@ -21,6 +21,8 @@
                 <xsl:comment>#include virtual="top.html" </xsl:comment>
                 <xsl:comment> SSI line below </xsl:comment>
                 <xsl:comment>#include virtual="ameliaLinks.html" </xsl:comment>
+                <xsl:comment> SSI line below</xsl:comment>
+                <xsl:comment>#include virtual="alToggleSSI.html" </xsl:comment>
                 <div class="body-container">
                     <div class="text-container">
                         <div class="content">
