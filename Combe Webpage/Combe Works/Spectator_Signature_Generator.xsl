@@ -35,7 +35,7 @@
     </xsl:template>
     
     <xsl:template match="body">
-        <li><xsl:apply-templates select="descendant::closer/signatures/persName"/></li>
+        <li><xsl:apply-templates select="descendant::closer/signatures"/></li>
     </xsl:template>
 
     

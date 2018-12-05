@@ -57,7 +57,7 @@ body {
     overflow: hidden;
 }
 .dropdown .dropbtn {
-    font-size: 16px;    
+    font-size: 16px;
     border: none;
     outline: none;
     color: white;
@@ -120,6 +120,13 @@ body {
     text-align: center;
     margin-bottom: 50px;
 }
+.aboutTeam{
+    margin-bottom: 190px;
+}
+.aboutCombe{
+    margin-bottom: 105px;
+}
+.combeSource{font-size: 12px;}
 .footer-container{
     position: fixed;
     left: 12.5%;
@@ -184,10 +191,10 @@ span.persName.on{color: red}
 span.emph.on{color: red}
 span.placeName.on{color: red}
 span.signature.on{color: red}
-span.closer.on{background-color:red}
+.closer.on{background-color:red}
 span.poem.on{color:red}
 span.longdash.on{color:red}
 span.opener.on{background-color:red}
 span.epigraph.on{background-color: white}
 .letter.on{background-color: white}
-span.byline.on{background-color: white}
+.byline.on{background-color: white}
