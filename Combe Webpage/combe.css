@@ -103,7 +103,7 @@ body {
     width: 75%;
     margin: auto;
     height: 100%;
-    top: 0;
+    top: 0%;
 }
 .text-container{
     color: #5995DA;
@@ -148,18 +148,21 @@ body {
 .msDirectory {
     position: fixed;
     top: 0%;
-    left: 0;
+    left: 0%;
     background-color: #6EC4DB;
-    font-size: 15px;
+    font-size: 16px;
     width: 12.5%;
     text-align: center;
     color: white;
+}
+.msDirectoryPanels{
+    background-color: #6EC4DB;
 }
 .accordion {
     background-color: #6EC4DB;
     color: white;
     cursor: pointer;
-    padding: 10px;
+    padding: 2px;
     width: 100%;
     text-align: center;
     border: none;
@@ -176,17 +179,34 @@ body {
     display: none;
     overflow: hidden;
 }
-.toggleSidebar{
-    top: 4%;
+.syntax-sidebar-container{
+    width: 12.5%;
+    top: 0%;
     background-color: #6EC4DB;
     color: white;
     border: none;
     outline: none;
     position: fixed;
-    left: 87.5%;
-    font-size: 15px;
+    font-size: 16px;
+    left: 0%;
+}
+.syntax-toc{
+    text-align: left;
+    line-height: 60%;
+    font-size: 12px;
+}
+.toggleSidebar{
+    position: fixed;
     width: 12.5%;
-    }
+    top: 1%;
+    background-color: #6EC4DB;
+    color: white;
+    border: none;
+    outline: none;
+    position: fixed;
+    font-size: 12px;
+    left: 87.5%;
+}
 .license{font-size: 15px}
 span.persName.on{color: red}
 span.emph.on{color: red}

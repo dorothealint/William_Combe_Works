@@ -1,30 +1,47 @@
 <div class="toggleSidebar">
-    <link rel="stylesheet" href="combe.css" />
-    <script type="text/javascript" src="combe.js" xml:space="preserve"></script>
     <div class="fieldset">
         <fieldset>
-            <legend>Click to Highlight:</legend>
-            <input type="checkbox" id="ITALtoggle"/>
-            <span>Italic Content</span>
-            <br/>
-            <input type="checkbox" id="CHARtoggle"/>
-            <span>Persons</span>
-            <br/>
-            <input type="checkbox" id="PLtoggle"/>
-            <span>Places</span>
-            <br/>
-            <input type="checkbox" id="SIGtoggle"/>
-            <span>Signatures</span>
-            <br/>
-            <input type="checkbox" id="EPItoggle"/>
-            <span>Epigraph</span>
-            <br/>
-            <input type="checkbox" id="LETtoggle"/>
-            <span>Letter</span>
-            <br/>
-            <input type="checkbox" id="BYtoggle"/>
-            <span>Byline</span>
-            <br/>
+            <button class="accordion"><legend>Click to Highlight:</legend></button>
+            <div class="panel">
+                <input type="checkbox" id="ITALtoggle"/>
+                <span>Italic Content</span>
+                <br/>
+                <input type="checkbox" id="CHARtoggle"/>
+                <span>Persons</span>
+                <br/>
+                <input type="checkbox" id="PLtoggle"/>
+                <span>Places</span>
+                <br/>
+                <input type="checkbox" id="SIGtoggle"/>
+                <span>Signatures</span>
+                <br/>
+                <input type="checkbox" id="EPItoggle"/>
+                <span>Epigraph</span>
+                <br/>
+                <input type="checkbox" id="LETtoggle"/>
+                <span>Letter</span>
+                <br/>
+                <input type="checkbox" id="BYtoggle"/>
+                <span>Byline</span>
+                <br/>
+            </div>
         </fieldset>
     </div>
+    <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+        
+        for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+        panel.style.display = "none";
+        } else {
+        panel.style.display = "block";
+        }
+        });
+        }
+    </script>
 </div>

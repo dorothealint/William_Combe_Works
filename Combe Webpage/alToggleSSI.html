@@ -1,25 +1,44 @@
 <div class="toggleSidebar">
     <div class="fieldset">
         <fieldset>
-            <legend>Click to Highlight:</legend>
-            <input type="checkbox" id="ITALtoggle"/>
-            <span>Italic Content</span>
-            <br/>
-            <input type="checkbox" id="OPENtoggle"/>
-            <span>Opener</span>
-            <br/>
-            <input type="checkbox" id="LDtoggle"/>
-            <span>Long Dash</span>
-            <br/>
-            <input type="checkbox" id="SIGtoggle"/>
-            <span>Signatures</span>
-            <br/>
-            <input type="checkbox" id="POEMtoggle"/>
-            <span>Poem</span>
-            <br/>
-            <input type="checkbox" id="CLOStoggle"/>
-            <span>Closer</span>
-            <br/>
+            <button class="accordion"><legend>Click to Highlight:</legend></button>
+            <div class="panel">
+                <input type="checkbox" id="ITALtoggle"/>
+                <span>Italic Content</span>
+                <br/>
+                <input type="checkbox" id="OPENtoggle"/>
+                <span>Opener</span>
+                <br/>
+                <input type="checkbox" id="LDtoggle"/>
+                <span>Long Dash</span>
+                <br/>
+                <input type="checkbox" id="SIGtoggle"/>
+                <span>Signatures</span>
+                <br/>
+                <input type="checkbox" id="POEMtoggle"/>
+                <span>Poem</span>
+                <br/>
+                <input type="checkbox" id="CLOStoggle"/>
+                <span>Closer</span>
+                <br/>
+            </div>
         </fieldset>
     </div>
+    <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+        
+        for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+        panel.style.display = "none";
+        } else {
+        panel.style.display = "block";
+        }
+        });
+        }
+    </script>
 </div>
