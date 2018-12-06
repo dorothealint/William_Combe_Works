@@ -26,10 +26,8 @@
                 <div id="letterWriters">
                     <ul>
                     <xsl:apply-templates select="$spectatorColl//body"/>
-                        
                     </ul>
                 </div>
-                
             </body>
         </html>
     </xsl:template>

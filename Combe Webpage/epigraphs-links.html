@@ -1,0 +1,92 @@
+<div class="msDirectory">
+    <link rel="stylesheet" href="combe.css" />
+    <p>Modern Spectator</p>
+    <button class="accordion">1811</button>
+    <div class="panel">
+        <p><a href="#ms1811-05">May</a></p>
+        <p><a href="#ms1811-06">June</a></p>
+        <p><a href="#ms1811-07">July</a></p>
+        <p><a href="#ms1811-08">August</a></p>
+        <p><a href="#ms1811-09">September</a></p>
+        <p><a href="#ms1811-10">October</a></p>
+        <p><a href="#ms1811-11">November</a></p>
+        <p><a href="#ms1811-12">December</a></p>
+    </div>
+    <button class="accordion">1812 (WIP)</button>
+    <div class="panel">
+        <p>January</p>
+        <p>February</p>
+        <p>March</p>
+        <p>April</p>
+        <p>May</p>
+        <p>June</p>
+        <p>July</p>
+        <p>August</p>
+        <p>September</p>
+        <p>October</p>
+        <p>November</p>
+        <p>December</p>
+    </div>
+    <button class="accordion">1813</button>
+    <div class="panel">
+        <p><a href="#ms1813-01">January</a></p>
+        <p><a href="#ms1813-02">February</a></p>
+        <p><a href="#ms1813-03">March</a></p>
+        <p><a href="#ms1813-04">April</a></p>
+        <p><a href="#ms1813-05">May</a></p>
+        <p><a href="#ms1813-06">June</a></p>
+        <p>July</p>
+        <p>August</p>
+        <p>September</p>
+        <p>October</p>
+        <p>November</p>
+        <p>December</p>
+    </div>
+    <button class="accordion">1814 (WIP)</button>
+    <div class="panel">
+        <p>January</p>
+        <p>February</p>
+        <p>March</p>
+        <p>April</p>
+        <p>May</p>
+        <p>June</p>
+        <p>July</p>
+        <p>August</p>
+        <p>September</p>
+        <p>October</p>
+        <p>November</p>
+        <p>December</p>
+    </div>
+    <button class="accordion">1815 (WIP)</button>
+    <div class="panel">
+        <p>January</p>
+        <p>February</p>
+        <p>March</p>
+        <p>April</p>
+        <p>May</p>
+        <p>June</p>
+        <p>July</p>
+        <p>August</p>
+        <p>September</p>
+        <p>October</p>
+        <p>November</p>
+        <p>December</p>
+    </div>
+    <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+        
+        for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+        panel.style.display = "none";
+        } else {
+        panel.style.display = "block";
+        }
+        });
+        }
+    </script>
+</div>

@@ -23,6 +23,7 @@ body {
     position: relative;
     background-color: #6EC4DB;
     left: 20%;
+    top: 10px;
 }
 .links-container{
     position: fixed;
