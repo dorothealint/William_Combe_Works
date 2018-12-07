@@ -84,7 +84,7 @@
         him more successful than he has hitherto been in his attempts to enter the Temple of Hymen.
         But I shall let him speak for himself, which he does, pretty much at large, in the following
         letter:</p>
-    <!-- letter --><p>TO THE MODERN SPECTATOR. Would-be Grove. SIR, </p><p>I am a young man--I beg your pardon for
+    <!-- letter --><div type="letter"><p>TO THE MODERN SPECTATOR. Would-be Grove. SIR, </p><p>I am a young man--I beg your pardon for
             changing the expression, but to do myself justice, and to appear in my proper character
             to you, I am a young gentleman of twenty-three years of age, and possess an estate of
             eighteen hundred pounds a year, three hundred of which I farm myself, and am supposed to
@@ -225,12 +225,12 @@
             marry, and shortly too. You cannot, therefore, do me a greater favour than by sending an
             immediate answer to</p>
         <p>Your most obedient, humble servant,</p>
-        <p><persName>WILLIAM WOULD-BE</persName>.</p><!-- /letter -->
-    <p>I was about to answer this letter, when I received a second, to inform me, that, without
+        <closer><signatures><persName>WILLIAM WOULD-BE</persName>.</signatures></closer></div><!-- /letter -->
+    <div type="answer"><p>I was about to answer this letter, when I received a second, to inform me, that, without
         waiting for my answer, he had led the vicar’s daughter to the alter of Hymen, which was the
         step I should have recommended to him, and that she is now the happy mistress of
                 <placeName><emph rend="italic">Would-be Hall</emph></placeName>, in the county of
-            <placeName>BUCKS</placeName>.</p>
+            <placeName>BUCKS</placeName>.</p></div>
             </body>
         </text>
 </TEI>

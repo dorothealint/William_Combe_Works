@@ -62,7 +62,7 @@
         carried into effect. No one who reads it will hereafter deny, that an Old Maid is capable of
         the most friendly, generous, and kindly interesting conduct to the young, the lovely, and
         the accomplished of her own sex.</p>
-    <!-- letter -->
+    <!-- letter --><div type="letter">
         <!-- opener --><p>TO THE MODERN SPECTATOR, IN MR. ACKERMANN'S REPOSITORY OF ARTS, &amp;c.
                 <!--salute -->SIR,<!-- /salute --></p><!-- /opener -->
         <p>--I have long and repeatedly determined to address you on the subject of a plan I have in
@@ -173,9 +173,9 @@
             Scotland for many centuries.</p>
         <p>I remain, with great admiration of <persName>Mr. Ackermann</persName>'s <emph rend="italic">Repository</emph>, your
             most obedient and very humble servant,</p>
-        <p><persName>BEATRICE DE BEAUCHAMP.</persName></p>
-        <p><placeName>THIRTY-MILE COTTAGE</placeName></p>
-        <p><date when="1813-01-17">17th Jan. 1813.</date></p>
+        <closer><signatures><persName>BEATRICE DE BEAUCHAMP.</persName></signatures>
+        <placeName>THIRTY-MILE COTTAGE</placeName>
+        <date when="1813-01-17">17th Jan. 1813.</date></closer></div>
     <!-- /letter -->
             </body>
         </text>

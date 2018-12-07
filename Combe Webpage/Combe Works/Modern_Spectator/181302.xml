@@ -63,7 +63,7 @@
         and shall consider a conviction of my error, under the influence of their reasoning, as an
         improvement of my understanding, and consequently as an addition to the happiness of my
         life.</p>
-    <!-- letter --><p>TO THE MODERN SPECTATOR. SIR, </p><p>I am a gentleman of studious character, scientific
+    <!-- letter --><div type="letter"><p>TO THE MODERN SPECTATOR. SIR, </p><p>I am a gentleman of studious character, scientific
             pursuits, and independent fortune. My residence is in a narrow street, in a retired part
             of the town, which I preferred from the circumstance of a large house and handsome
             gardens, and some other conveniences suited to my favourite occupations, which the more
@@ -210,8 +210,8 @@
                     Bonham</persName> to be acquainted with a bishop?—He must be some distant
                 relation; for we saw him very plainly in the drawing room, take the two children
                 upon his knees, and fondle them. He must be a good-natured, delightful man! O
-                heavens, how I do wish to be confirmed by him! Looked into <!-- book -->Debrett’s
-                    Peerage<!-- /book -->, to see the coats of arms of the bishops, to discover who he is:
+                heavens, how I do wish to be confirmed by him! Looked into Debrett’s
+                    Peerage, to see the coats of arms of the bishops, to discover who he is:
                 found him to be an <emph rend="italic">Irish bishop</emph>. O dear heart!—well I do think
                 that I would go to <placeName>Ireland</placeName> to be confirmed by him.—He staid two
                 hours.—I’ll be hanged if I have not found it out:--<persName>Fusty Bonham</persName>
@@ -238,8 +238,8 @@
             present them in this manner to you; and I am confident that you will receive the
             acknowledgments of many others besides those of</p>
         <p>Your obliged, humble servant,</p>
-        <p><persName>Augustus Bonham</persName></p>
-            <p>I cannot, <persName>Mr. Spectator</persName>,
+        <closer><signatures><persName>Augustus Bonham</persName></signatures></closer>
+            <postscript><p>I cannot, <persName>Mr. Spectator</persName>,
             resist calling your further attention to a circumstance which took place within a couple
             of hours after I had written the rough draft of the foregoing letter.</p>
         <p>Being in my laboratory, pursuing some chemical experiments, a smart young man was
@@ -268,7 +268,7 @@
             himself into the kennel, and sought, amidst filth and fear, the condolence and cleansing
             attention of <persName>Miss Wilhelmina Quicksight</persName>. Of the threatened
             prosecution I have heard nothing, but I understand that the baker has summoned the
-            attorney to the court of conscience for the injury done to his bread.</p>
+            attorney to the court of conscience for the injury done to his bread.</p></postscript></div>
     <!-- /letter -->
         </body>
     </text>

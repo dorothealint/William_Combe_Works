@@ -121,10 +121,10 @@
     <p><persName>Deborah Doubtnot</persName> informs me, that having slept in a strange bed the
         other night, she tied her garter nine times round the bed-post, and knit nine knots in it,
         and the repeated to herself,</p>
-    <!-- spell --><l>This knot I knit, this knot I tie,</l>
+        <l>This knot I knit, this knot I tie,</l>
         <l>To see my love as he goes by,</l>
         <l>In his apparel and array</l>
-        <l>As he walks in every day.</l><!-- /spell -->
+        <l>As he walks in every day.</l>
     <p>She accordingly saw <persName>Mr. Trusty</persName> pass by the house as she was dressing
         herself at the window the next morning. She at the same time requests me to tell her, as
         this gentleman was going to the drill, he being one of the volunteer association, whether
@@ -151,7 +151,7 @@
         fancies to their proper origin; though they seem to me, in one way or other, to be of the
         most remote antiquity.</p>
     <p>I shall now proceed to a fair correspondent, of a very different character.</p>
-    <!-- letter --><p>TO THE MODERN SPECTATOR. SIR, </p><p>I am perfectly aware of the enquiring eye of the world,
+    <!-- letter --><div type="letter"><p>TO THE MODERN SPECTATOR. SIR, </p><p>I am perfectly aware of the enquiring eye of the world,
             and the remarks to which a lady subjects herself on addressing a gentleman previous to
             any personal acquaintance; but however that may be, where intellectual acquirement is
             the object, it strikes me as a mark of cowardice, not to pursue it. Besides, I have no
@@ -196,9 +196,9 @@
             help having the name which my parents gave me, but I desire you will not entertain an
             unfavourable impression of me, because I am compelled to subscribe myself, your obliged
             humble servant,</p>
-        <p><persName>FANNY WAVER</persName></p>
+        <closer><signatures><persName>FANNY WAVER</persName></signatures></closer></div>
     <!-- /letter -->
-    <p>Whether my fair correspondent is serious or jocose; whether she is quizzing me, or flattering
+    <div type="response"><p>Whether my fair correspondent is serious or jocose; whether she is quizzing me, or flattering
         me, or is seriously disposed to form an acquaintance with me, from any favourable
         impressions which my writings may have been so fortunate as to make on her mind, I really
         cannot determine. Her letter is certainly written with spirit and elegance; and the seal of
@@ -251,7 +251,7 @@
         considerably to the revenues of the Post Office. I think, therefore, that <persName>Mrs.
             Deborah Worry</persName> should content herself with taking care that Valentines do not
         choke her in the parlour, and leave them to their natural operations in every other part of
-        the house.</p>
+        the house.</p></div>
         </body>
     </text>
 </TEI>
