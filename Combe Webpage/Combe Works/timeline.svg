@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>Combe Timeline</desc>
+    <g transform="translate( 150, 50)">
+        <line x1="0" y1="0" x2="0" y2="550" stroke="#6EC4DB" stroke-width="1"/>
+        <circle r="3" cx="0" cy="" fill="#2e9ab8"/>
+        <text x="10" y="5" fill="#6EC4DB">Lord Craven</text>
+        <text x="-45" y="5" fill="#6EC4DB">1775</text>
+        <circle r="3" cx="0" cy="25" fill="#2e9ab8"/>
+        <text x="10" y="30" fill="#6EC4DB">First of April</text>
+        <text x="-73" y="55" fill="#6EC4DB">04 -</text>
+        <text x="-45" y="30" fill="#6EC4DB">1777</text>
+        <circle r="3" cx="0" cy="50" fill="#2e9ab8"/>
+        <text x="10" y="55" fill="#6EC4DB">Amelia's Letters: Letter 1</text>
+        <text x="-45" y="55" fill="#6EC4DB">1809</text>
+        <text x="-73" y="55" fill="#6EC4DB">04 -</text>
+        <circle r="3" cx="0" cy="75" fill="#2e9ab8"/>
+        <text x="10" y="80" fill="#6EC4DB">Amelia's Letters: Letter 2</text>
+        <text x="-45" y="80" fill="#6EC4DB">1809</text>
+        <text x="-73" y="80" fill="#6EC4DB">05 -</text>
+        <circle r="3" cx="0" cy="100" fill="#2e9ab8"/>
+        <text x="10" y="105" fill="#6EC4DB">Amelia's Letters: Letter 3</text>
+        <text x="-45" y="105" fill="#6EC4DB">1809</text>
+        <text x="-73" y="105" fill="#6EC4DB">06 -</text>
+        <circle r="3" cx="0" cy="125" fill="#2e9ab8"/>
+        <text x="10" y="130" fill="#6EC4DB">Amelia's Letters: Letter 4</text>
+        <text x="-45" y="130" fill="#6EC4DB">1809</text>
+        <text x="-73" y="130" fill="#6EC4DB">07 -</text>
+        <circle r="3" cx="0" cy="150" fill="#2e9ab8"/>
+        <text x="10" y="155" fill="#6EC4DB">Amelia's Letters: Letter 5</text>
+        <text x="-45" y="155" fill="#6EC4DB">1809</text>
+        <text x="-73" y="155" fill="#6EC4DB">08 -</text>
+        <circle r="3" cx="0" cy="175" fill="#2e9ab8"/>
+        <text x="10" y="180" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="180" fill="#6EC4DB">1811</text>
+        <text x="-73" y="180" fill="#6EC4DB">05 -</text>
+        <circle r="3" cx="0" cy="200" fill="#2e9ab8"/>
+        <text x="10" y="205" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="205" fill="#6EC4DB">1811</text>
+        <text x="-73" y="205" fill="#6EC4DB">06 -</text>
+        <circle r="3" cx="0" cy="225" fill="#2e9ab8"/>
+        <text x="10" y="230" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="230" fill="#6EC4DB">1811</text>
+        <text x="-73" y="230" fill="#6EC4DB">07 -</text>
+        <circle r="3" cx="0" cy="250" fill="#2e9ab8"/>
+        <text x="10" y="255" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="255" fill="#6EC4DB">1811</text>
+        <text x="-73" y="255" fill="#6EC4DB">08 -</text>
+        <circle r="3" cx="0" cy="275" fill="#2e9ab8"/>
+        <text x="10" y="280" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="280" fill="#6EC4DB">1811</text>
+        <text x="-73" y="280" fill="#6EC4DB">09 -</text>
+        <circle r="3" cx="0" cy="300" fill="#2e9ab8"/>
+        <text x="10" y="305" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="305" fill="#6EC4DB">1811</text>
+        <text x="-73" y="305" fill="#6EC4DB">10 -</text>
+        <circle r="3" cx="0" cy="325" fill="#2e9ab8"/>
+        <text x="10" y="330" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="330" fill="#6EC4DB">1811</text>
+        <text x="-73" y="330" fill="#6EC4DB">11 -</text>
+        <circle r="3" cx="0" cy="350" fill="#2e9ab8"/>
+        <text x="10" y="355" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="355" fill="#6EC4DB">1811</text>
+        <text x="-73" y="355" fill="#6EC4DB">12 -</text>
+        <circle r="3" cx="0" cy="375" fill="#2e9ab8"/>
+        <text x="10" y="380" fill="#6EC4DB">Doctor Syntax: First Tour</text>
+        <text x="-45" y="380" fill="#6EC4DB">1812</text>
+        <circle r="3" cx="0" cy="400" fill="#2e9ab8"/>
+        <text x="10" y="405" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="405" fill="#6EC4DB">1813</text>
+        <text x="-73" y="405" fill="#6EC4DB">01 -</text>
+        <circle r="3" cx="0" cy="425" fill="#2e9ab8"/>
+        <text x="10" y="430" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="430" fill="#6EC4DB">1813</text>
+        <text x="-73" y="430" fill="#6EC4DB">02 -</text>
+        <circle r="3" cx="0" cy="450" fill="#2e9ab8"/>
+        <text x="10" y="455" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="455" fill="#6EC4DB">1813</text>
+        <text x="-73" y="455" fill="#6EC4DB">03 -</text>
+        <circle r="3" cx="0" cy="475" fill="#2e9ab8"/>
+        <text x="10" y="480" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="480" fill="#6EC4DB">1813</text>
+        <text x="-73" y="480" fill="#6EC4DB">04 -</text>
+        <circle r="3" cx="0" cy="500" fill="#2e9ab8"/>
+        <text x="10" y="505" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="505" fill="#6EC4DB">1813</text>
+        <text x="-73" y="505" fill="#6EC4DB">05 -</text>
+        <circle r="3" cx="0" cy="525" fill="#2e9ab8"/>
+        <text x="10" y="530" fill="#6EC4DB">Modern Spectator: </text>
+        <text x="-45" y="530" fill="#6EC4DB">1813</text>
+        <text x="-73" y="530" fill="#6EC4DB">06 -</text>
+        <circle r="3" cx="0" cy="550" fill="#2e9ab8"/>
+        <text x="10" y="555" fill="#6EC4DB">Johnny Que Genus</text>
+        <text x="-45" y="555" fill="#6EC4DB">1822</text>
+    </g>
+</svg>

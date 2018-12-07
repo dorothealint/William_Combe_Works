@@ -1,0 +1,26 @@
+<div class="toggleSidebar">
+    <button class="accordion"><p>Doctor Syntax</p></button>
+    <div class="panel">
+        <p><a href="syntax1.html">First Tour</a></p>
+       <p><a>Second Tour</a></p>
+       <p><a>Third Tour</a></p>
+       <p><a href="johnny_que_genus.html">Johnny Que Genus</a></p>
+    </div>
+   <script>
+      var acc = document.getElementsByClassName("accordion");
+      var i;
+      
+      for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      
+      var panel = this.nextElementSibling;
+      if (panel.style.display === "block") {
+      panel.style.display = "none";
+      } else {
+      panel.style.display = "block";
+      }
+      });
+      }
+   </script>
+</div>

@@ -207,6 +207,8 @@ body {
     font-size: 12px;
     left: 87.5%;
 }
+.timeline-container{overflow: visible}
+.timeline{overflow: visible}
 .license{font-size: 15px}
 span.persName.on{color: red}
 span.emph.on{color: red}
