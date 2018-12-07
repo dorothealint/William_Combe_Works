@@ -15,7 +15,7 @@
   </publicationStmt>
   <sourceDesc>
     <bibl>
-      <title>The First of April</title>
+      <title>The First of April: The Triumphs of Folly</title>
       <author>William Combe</author>
       <date when="1777"/>
     </bibl>
@@ -946,19 +946,19 @@ those who possess the least suspicion, or the most ordinary
 penetration.--_But more of this hereafter._]</note>
 
 
-<closer>FINIS.
+<closer><pRef>FINIS.</pRef>
 
 
 
 
-_This Day was published,_
+<pRef>_This Day was published,_
 Price Two Shillings and Sixpence,
 A NEW EDITION,
 WITH LARGE ADDITIONS,
 OF THE
-D I A B O L I A D.
+D I A B O L I A D.</pRef>
 
-Printed for G. KEARSLY, No. 46, Fleet-Street.</closer>
+<pRef>Printed for G. KEARSLY, No. 46, Fleet-Street.</pRef></closer>
 </body>
   </text>
 </TEI>
