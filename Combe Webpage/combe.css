@@ -184,18 +184,12 @@ body {
     display: none;
     overflow: hidden;
 }
-.syntax-sidebar-container{
-    width: 12.5%;
-    top: 0%;
-    background-color: #6EC4DB;
-    color: white;
-    border: none;
-    outline: none;
-    position: fixed;
-    font-size: 16px;
-    left: 0%;
-}
-.syntax-toc{
+.panelSyntaxTOC {
+    color: #6EC4DB;
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
     text-align: left;
     line-height: 60%;
     font-size: 12px;
