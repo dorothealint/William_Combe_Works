@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" overflow="visible">
+    <desc>Combe Timeline</desc>
+    <g transform="translate( 150, 50)">
+        <line x1="0" y1="0" x2="0" y2="5000" stroke="#6EC4DB" stroke-width="1"/>
+        <text x="-45" y="5" fill="#6EC4DB">1774</text>
+        <circle r="3" cx="0" cy="0" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="30" fill="#6EC4DB">A Desciption of Patagonia by Thomas Falkner</text>
+        </g>
+        <text x="-45" y="55" fill="#6EC4DB">1775</text>
+        <circle r="3" cx="0" cy="50" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="80" fill="#6EC4DB">Clifton : A Poem in Imitation of Spenser</text>
+            <text x="10" y="105" fill="#6EC4DB">The Philosopher in Bristol</text>
+            <text x="10" y="130" fill="#6EC4DB">Letters to His Friends on Various Occasions by
+                Laurence Sterne</text>
+            <text x="10" y="155" fill="#2e9ab8">Lord Craven</text>
+        </g>
+        <text x="-45" y="180" fill="#6EC4DB">1776</text>
+        <circle r="3" cx="0" cy="175" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="205" fill="#6EC4DB">The Oeconomy of Health by the School of
+                Salerno</text>
+        </g>
+        <text x="-45" y="230" fill="#6EC4DB">1777</text>
+        <circle r="3" cx="0" cy="225" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="255" fill="#6EC4DB">The Diaboliad : Dedicated to the Worst Man in His
+                Majesty's Dominions</text>
+            <text x="10" y="280" fill="#6EC4DB">Additions to the Diaboliad : A Poem</text>
+            <text x="10" y="305" fill="#6EC4DB">A Dialogue in the Shades</text>
+            <text x="10" y="330" fill="#6EC4DB">A Letter to the Duchess of Devonshire</text>
+            <text x="10" y="355" fill="#6EC4DB">A Second Letter to the Duchess of Devonshire</text>
+            <text x="10" y="380" fill="#6EC4DB">An Interesting Letter to the Duchess of
+                Devonshire</text>
+            <text x="10" y="405" fill="#6EC4DB">An Heroic Epistle to the Noble Author of The Duchess
+                of Devonshire's Cow</text>
+            <text x="10" y="430" fill="#6EC4DB">The Justification</text>
+            <text x="10" y="455" fill="#6EC4DB">A Poetical Epistle to Sir Joshua Reynolds</text>
+            <text x="10" y="480" fill="#2e9ab8">The First of April, or The Triumphs of Folly - A Poem</text>
+        </g>
+        <text x="-45" y="505" fill="#6EC4DB">1778</text>
+        <circle r="3" cx="0" cy="500" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="530" fill="#6EC4DB">The Auction : A Town Eclogue</text>
+            <text x="10" y="555" fill="#6EC4DB">A Practical Treatise on the Diseases of the Teeth by
+                John Hunter</text>
+            <text x="10" y="580" fill="#6EC4DB">The Royal register</text>
+        </g>
+        <text x="-45" y="605" fill="#6EC4DB">1779</text>
+        <circle r="3" cx="0" cy="600" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="630" fill="#6EC4DB">An Heroic Epistle to Sir James Wright</text>
+            <text x="10" y="655" fill="#6EC4DB">The World as it Goes</text>
+            <text x="10" y="680" fill="#6EC4DB">Letters supposed to have been Written by Yorick to
+                Eliza</text>
+        </g>
+        <text x="-45" y="705" fill="#6EC4DB">1780</text>
+        <circle r="3" cx="0" cy="700" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="730" fill="#6EC4DB">The Fast-Day : A Lambeth Ecologue</text>
+            <text x="10" y="755" fill="#6EC4DB">Letters of the Late Lord Lyttleton</text>
+        </g>
+        <text x="-45" y="780" fill="#6EC4DB">1781</text>
+        <circle r="3" cx="0" cy="775" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="805" fill="#6EC4DB">The Traitor : A Poetical Rhapsody</text>
+            <text x="10" y="830" fill="#6EC4DB">Letters Between Two Lovers and Their Friends</text>
+            <text x="10" y="855" fill="#6EC4DB">Letters of an Italian Nun and an English
+                Gentleman</text>
+        </g>
+        <text x="-45" y="880" fill="#6EC4DB">1784</text>
+        <circle r="3" cx="0" cy="875" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="905" fill="#6EC4DB">Original Love-Letters Between a Lady of Quality and
+                a Person of Inferior Station </text>
+        </g>
+        <text x="-45" y="930" fill="#6EC4DB">1785</text>
+        <circle r="3" cx="0" cy="925" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="955" fill="#6EC4DB">The Royal Dream, or The Prince in a Panic - An
+                Eclogue</text>
+        </g>
+        <text x="-45" y="980" fill="#6EC4DB">1787</text>
+        <circle r="3" cx="0" cy="975" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1005" fill="#6EC4DB">An Historical and Chronological Deduction of the
+                Origin of Commerce by Adam Anderson</text>
+        </g>
+        <text x="-45" y="1030" fill="#6EC4DB">1788</text>
+        <circle r="3" cx="0" cy="1025" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1055" fill="#6EC4DB">Original Letters of Laurence Sterne</text>
+        </g>
+        <text x="-45" y="1080" fill="#6EC4DB">1789</text>
+        <circle r="3" cx="0" cy="1075" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1105" fill="#6EC4DB">A History of the Late Important Period</text>
+            <text x="10" y="1130" fill="#6EC4DB">A Letter from a Country Gentleman to a Member of
+                Parliament</text>
+            <text x="10" y="1155" fill="#6EC4DB">The Royal Interview : A Fragment</text>
+        </g>
+        <text x="-45" y="1180" fill="#6EC4DB">1790</text>
+        <circle r="3" cx="0" cy="1175" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1205" fill="#6EC4DB">Observations on the Present State of the Royal
+                Academy</text>
+            <text x="10" y="1230" fill="#6EC4DB">Considerations on the Approaching Dissolution of
+                Parliament</text>
+            <text x="10" y="1255" fill="#6EC4DB">Voyages made in the Years 1788 &amp; 1789 from
+                China to the North West Coast of America by John Meares</text>
+        </g>
+        <text x="-45" y="1280" fill="#6EC4DB">1791</text>
+        <circle r="3" cx="0" cy="1275" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1305" fill="#6EC4DB">The Devil on Two Sticks in England </text>
+        </g>
+        <text x="-45" y="1330" fill="#6EC4DB">1792</text>
+        <circle r="3" cx="0" cy="1325" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1355" fill="#6EC4DB">A Word in Season to the Traders and Manufacturers
+                of Great Britain</text>
+        </g>
+        <text x="-45" y="1380" fill="#6EC4DB">1794</text>
+        <circle r="3" cx="0" cy="1375" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1405" fill="#6EC4DB">An History of the River Thames</text>
+            <text x="10" y="1430" fill="#6EC4DB">Alf von Deulman, or The History of the Emperor
+                Philip and His Daughters by C B E Naubert</text>
+            <text x="10" y="1455" fill="#6EC4DB">A Letter to Uvedale Price by Humphry Repton</text>
+            <text x="10" y="1480" fill="#6EC4DB">Sketches and Hints on Landscape Gardening by
+                Humphry Repton</text>
+        </g>
+        <text x="-45" y="1505" fill="#6EC4DB">1795</text>
+        <circle r="3" cx="0" cy="1500" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1530" fill="#6EC4DB">Two Words of Counsel and One of Comfort, to the
+                Prince of Wales</text>
+            <text x="10" y="1555" fill="#6EC4DB">A Narrative of the British Embassy to China
+                1792-94</text>
+        </g>
+        <text x="-45" y="1580" fill="#6EC4DB">1796</text>
+        <circle r="3" cx="0" cy="1575" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1605" fill="#6EC4DB">Letters to a Retired Officer</text>
+            <text x="10" y="1630" fill="#6EC4DB">Voyage to the South Atlantic and Round Cape Horn
+                into the Pacific Ocean by James Colnett</text>
+        </g>
+        <text x="-45" y="1655" fill="#6EC4DB">1797</text>
+        <circle r="3" cx="0" cy="1650" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1680" fill="#6EC4DB">Plain Thoughts of a Plain Man</text>
+        </g>
+        <text x="-45" y="1705" fill="#6EC4DB">1799</text>
+        <circle r="3" cx="0" cy="1700" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1730" fill="#6EC4DB">Freidrich Anthing : History of the Campaigns of
+                Count Alexander Suworow Rymniski</text>
+            <text x="10" y="1755" fill="#6EC4DB">Count Jean-Baptiste Jourdan : Memoir of the
+                Operations of the Army of the Danube</text>
+        </g>
+        <text x="-45" y="1780" fill="#6EC4DB">1800</text>
+        <circle r="3" cx="0" cy="1775" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1805" fill="#6EC4DB">Louis-Medeleine Ripault : Report to the First
+                Consul Bonaparte on the Antiquities of Egypt</text>
+            <text x="10" y="1830" fill="#6EC4DB">Official Correspondence Containing the Whole of the
+                State Papers from 1797 to 1799, of the Congress of Rastadt</text>
+            <text x="10" y="1855" fill="#6EC4DB">C N S Sonnini de Manoncourt : Travels in Upper and
+                Lower Egypt</text>
+        </g>
+        <text x="-45" y="1880" fill="#6EC4DB">1801</text>
+        <circle r="3" cx="0" cy="1875" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="1905" fill="#6EC4DB">Brief Observations on a Letter to Pitt by W.
+                Boyd</text>
+            <text x="10" y="1930" fill="#6EC4DB">The History of Mauritius by Charles Grant, Viscount
+                de Vaux</text>
+            <text x="10" y="1955" fill="#6EC4DB">The Life, Adventures and Opinions of Col. George
+                Hanger, Written by Himself</text>
+        </g>
+        <text x="-45" y="1980" fill="#6EC4DB">1802</text>
+        <circle r="3" cx="0" cy="1975" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2005" fill="#6EC4DB">A Journal of the Forces which Sailed in 1800 by
+                Aeneas Anderson</text>
+            <text x="10" y="2030" fill="#6EC4DB">Voyages from Montreal Through the Continent of
+                North America by Alexander Mackenzie</text>
+        </g>
+        <text x="-45" y="2055" fill="#6EC4DB">1803</text>
+        <circle r="3" cx="0" cy="2050" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2080" fill="#6EC4DB">The Pic Nic</text>
+        </g>
+        <text x="-45" y="2105" fill="#6EC4DB">1804</text>
+        <circle r="3" cx="0" cy="2100" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2130" fill="#6EC4DB">The Letters of Valerius</text>
+        </g>
+        <text x="-45" y="2155" fill="#6EC4DB">1809</text>
+        <circle r="3" cx="0" cy="2150" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2180" fill="#2e9ab8">Letters Between Amelia in London and Her Mother in
+                the Country</text>
+        </g>
+        <text x="-45" y="2205" fill="#6EC4DB">1810</text>
+        <circle r="3" cx="0" cy="2200" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2230" fill="#6EC4DB">Fashionable Follies, Vol 3 by Thomas Vaughan</text>
+        </g>
+        <text x="-45" y="2255" fill="#6EC4DB">1811</text>
+        <circle r="3" cx="0" cy="2250" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2280" fill="#6EC4DB">The Thames, or Graphic Illustrations</text>
+            <text x="10" y="2305" fill="#6EC4DB">The Life of Arthur Murphy by Jesse Foot</text>
+            <text x="10" y="2330" fill="#6EC4DB">Microcosm of London : Vol 3</text>
+            <text x="10" y="2355" fill="#2e9ab8">Doctor Syntax: The First Tour through London</text>
+            <text x="10" y="2380" fill="#2e9ab8">Modern Spectator: volume I</text>
+        </g>
+        <text x="-45" y="2405" fill="#6EC4DB">1812</text>
+        <circle r="3" cx="0" cy="2400" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2430" fill="#6EC4DB">History of Abbey Church of St Peter's,
+                Westminster</text>
+            <text x="10" y="2455" fill="#6EC4DB">Doctor Syntax: The Second Tour in Search of
+                Consolation</text>
+        </g>
+        <text x="-45" y="2480" fill="#6EC4DB">1813</text>
+        <circle r="3" cx="0" cy="2475" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2505" fill="#6EC4DB">Antiquities of York</text>
+            <text x="10" y="2530" fill="#6EC4DB">Six Poems Illustrative of the Engravings of
+                Princess Elizabeth</text>
+            <text x="10" y="2555" fill="#2e9ab8">Modern Spectator: volume II</text>
+        </g>
+        <text x="-45" y="2580" fill="#6EC4DB">1814</text>
+        <circle r="3" cx="0" cy="2575" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2605" fill="#6EC4DB">A History of the University of Oxford</text>
+        </g>
+        <text x="-45" y="2630" fill="#6EC4DB">1815</text>
+        <circle r="3" cx="0" cy="2625" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2655" fill="#6EC4DB">A History of the University of Cambridge</text>
+            <text x="10" y="2680" fill="#6EC4DB">Life of Napoleon : A Hudibrastic Poem</text>
+            <text x="10" y="2705" fill="#6EC4DB">The English Dance of Death</text>
+        </g>
+        <text x="-45" y="2730" fill="#6EC4DB">1816</text>
+        <circle r="3" cx="0" cy="2725" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2755" fill="#6EC4DB">The History of the Colleges</text>
+        </g>
+        <text x="-45" y="2780" fill="#6EC4DB">1817</text>
+        <circle r="3" cx="0" cy="2775" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2805" fill="#6EC4DB">The Dance of Life</text>
+        </g>
+        <text x="-45" y="2830" fill="#6EC4DB">1820</text>
+        <circle r="3" cx="0" cy="2825" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2855" fill="#6EC4DB">Swiss Scenery</text>
+        </g>
+        <text x="-45" y="2880" fill="#6EC4DB">1821</text>
+        <circle r="3" cx="2875" cy="" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2905" fill="#6EC4DB">A History of Madeira</text>
+            <text x="10" y="2930" fill="#6EC4DB">Doctor Syntax: Third Tour in Search of a
+                Wife</text>
+        </g>
+        <text x="-45" y="2955" fill="#6EC4DB">1822</text>
+        <circle r="3" cx="0" cy="2950" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="2980" fill="#2e9ab8">The History of Johnny Quae Genus, The Little
+                Foundling of the Late Doctor Syntax</text>
+        </g>
+        <text x="-45" y="3005" fill="#6EC4DB">1823</text>
+        <circle r="3" cx="0" cy="3000" fill="#2e9ab8"/>
+        <g>
+            <text x="10" y="3030" fill="#6EC4DB">Letters to Marianne</text>
+            <text x="10" y="3055" fill="#6EC4DB">Forget Me Bot : A Christmas and New Year's Present
+                for 1823</text>
+        </g>
+    </g>
+</svg>

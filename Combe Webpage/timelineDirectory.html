@@ -1,0 +1,91 @@
+<div class="msDirectory">
+    <link rel="stylesheet" href="combe.css" />
+    <button class="accordion"><p>Years</p></button>
+    <div class="panel">
+        <button class="accordion"><p>1774-1779</p></button>
+        <div class="panel">
+            <p><a href="#tl1774">1774</a></p>
+            <p><a href="#tl1775">1775</a></p>
+            <p><a href="#tl1776">1776</a></p>
+            <p><a href="#tl1777">1777</a></p>
+            <p><a href="#tl1778">1778</a></p>
+            <p><a href="#tl1779">1779</a></p>
+        </div>
+        <button class="accordion"><p>1780-1789</p></button>
+        <div class="panel">
+            <p><a href="#tl1780">1780</a></p>
+            <p><a href="#tl1781">1781</a></p>
+            <p><a href="#tl1782">1782</a></p>
+            <p><a href="#tl1783">1783</a></p>
+            <p><a href="#tl1784">1784</a></p>
+            <p><a href="#tl1785">1785</a></p>
+            <p><a href="#tl1786">1786</a></p>
+            <p><a href="#tl1787">1787</a></p>
+            <p><a href="#tl1788">1788</a></p>
+            <p><a href="#tl1789">1789</a></p>
+        </div>
+        <button class="accordion"><p>1790-1799</p></button>
+        <div class="panel">
+            <p><a href="#tl1790">1790</a></p>
+            <p><a href="#tl1791">1791</a></p>
+            <p><a href="#tl1792">1792</a></p>
+            <p><a href="#tl1793">1793</a></p>
+            <p><a href="#tl1794">1794</a></p>
+            <p><a href="#tl1795">1795</a></p>
+            <p><a href="#tl1796">1796</a></p>
+            <p><a href="#tl1797">1797</a></p>
+            <p><a href="#tl1798">1798</a></p>
+            <p><a href="#tl1799">1799</a></p>
+        </div>
+        <button class="accordion"><p>1800-1809</p></button>
+        <div class="panel">
+            <p><a href="#tl1800">1800</a></p>
+            <p><a href="#tl1801">1801</a></p>
+            <p><a href="#tl1802">1802</a></p>
+            <p><a href="#tl1803">1803</a></p>
+            <p><a href="#tl1804">1804</a></p>
+            <p><a href="#tl1805">1805</a></p>
+            <p><a href="#tl1806">1806</a></p>
+            <p><a href="#tl1807">1807</a></p>
+            <p><a href="#tl1808">1808</a></p>
+            <p><a href="#tl1809">1809</a></p>
+        </div>
+        <button class="accordion"><p>1810-1819</p></button>
+        <div class="panel">
+            <p><a href="#tl1810">1810</a></p>
+            <p><a href="#tl1811">1811</a></p>
+            <p><a href="#tl1812">1812</a></p>
+            <p><a href="#tl1813">1813</a></p>
+            <p><a href="#tl1814">1814</a></p>
+            <p><a href="#tl1815">1815</a></p>
+            <p><a href="#tl1816">1816</a></p>
+            <p><a href="#tl1817">1817</a></p>
+            <p><a href="#tl1818">1818</a></p>
+            <p><a href="#tl1819">1819</a></p>
+        </div>
+        <button class="accordion"><p>1820-1823</p></button>
+        <div class="panel">
+            <p><a href="#tl1820">1820</a></p>
+            <p><a href="#tl1821">1821</a></p>
+            <p><a href="#tl1822">1822</a></p>
+            <p><a href="#tl1823">1823</a></p>
+        </div>
+    </div>
+    <script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+    
+    for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+    panel.style.display = "none";
+    } else {
+    panel.style.display = "block";
+    }
+    });
+    }
+    </script>
+</div>
