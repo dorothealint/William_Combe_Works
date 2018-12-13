@@ -9,19 +9,7 @@ body {
     font-family: 'Arial', sans-serif;
     font-size: 20px;
     height: 100%;
-}
-.menu-container{
-    color: #FFF7C0;
-    top: 0%;
-    width: 100%;
-    font-size: 16px;
-    background-color: #6EC4DB;
-    padding: 10px;
-}
-.combeText{
-    position: relative;
-    left: 20%;
-    top: 22px;
+    font-style: normal;
 }
 .links-container{
     width: 100%;
@@ -36,6 +24,92 @@ body {
     left: 30%;
     top: 0%;
 }
+.body-container{
+    background-color: #ffffff;
+    width: 75%;
+    margin: auto;
+    height: 100%;
+    color: #2e9ab8;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-style: normal;
+}
+.menu-container{
+    color: #FFF7C0;
+    top: 0%;
+    width: 100%;
+    font-size: 16px;
+    background-color: #6EC4DB;
+    padding: 10px;
+}
+.combeText{
+    position: relative;
+    left: 20%;
+    top: 22px;
+}
+.picture-box{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.aboutCombe, .aboutTeam{
+    margin-bottom: 105px;
+    height: 100%;
+}
+.combeSource{font-size: 12px;}
+.footer-container{
+    position: fixed;
+    left: 12.5%;
+    bottom: 0%;
+    width: 75%;
+    background-color: #6EC4DB;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+.msDirectory {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background-color: #6EC4DB;
+    font-size: 16px;
+    width: 12.5%;
+    text-align: center;
+    color: white;
+}
+.toggleSidebar{
+    position: fixed;
+    width: 12.5%;
+    background-color: #6EC4DB;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 13px;
+    left: 87.5%;
+}
+.fieldset, .syntax-directory{
+    position: fixed;
+    left: 87.5%;
+    width: 12.5%;
+    background-color: #6EC4DB;
+}
+.fieldset{top: 0.75%;}
+.syntax-directory{top: 0%;}
+.license{font-size: 15px}
+span.persName.on{color: #dac292; font-weight: bold;}
+span.emph.on{font-style: italic; font-weight: bold;}
+span.placeName.on{color: #ffcc5c; font-weight: bold;}
+span.signature.on{color: #ff6f69; font-weight: bold;}
+span.closer.on{color: #b8a9c9}
+span.poem.on{color: #eeac99}
+span.longdash.on{color: #667292; font-weight: bold;}
+span.opener.on{color: #b2b2b2}
+span.epigraph.on{color: #6b5b95}
+span.letter.on{color: #82b74b}
+span.byline.on{color: #feb236}
 .navbar {
     overflow: hidden;
     background-color: #6EC4DB;
@@ -91,48 +165,6 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-.picture-box{
-    display: flex;
-    justify-content: space-around;
-    padding: 30px;
-}
-.body-container{
-    background-color: #ffffff;
-    width: 75%;
-    margin: auto;
-    height: 100%;
-    color: #2e9ab8;
-    padding: 20px 0;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-}
-.aboutCombe, .aboutTeam{
-    margin-bottom: 105px;
-    height: 100%;
-}
-.combeSource{font-size: 12px;}
-.footer-container{
-    position: fixed;
-    left: 12.5%;
-    bottom: 0%;
-    width: 75%;
-    background-color: #6EC4DB;
-    color: white;
-    text-align: center;
-    padding: 3px;
-}
-.msDirectory {
-    position: fixed;
-    top: 0%;
-    left: 0%;
-    background-color: #6EC4DB;
-    font-size: 16px;
-    width: 12.5%;
-    text-align: center;
-    color: white;
-}
 .accordion {
     background-color: #6EC4DB;
     color: white;
@@ -159,33 +191,3 @@ body {
     line-height: 60%;
     font-size: 12px;
 }
-.toggleSidebar{
-    position: fixed;
-    width: 12.5%;
-    background-color: #6EC4DB;
-    color: white;
-    border: none;
-    outline: none;
-    font-size: 13px;
-    left: 87.5%;
-}
-.fieldset, .syntax-directory{
-    position: fixed;
-    left: 87.5%;
-    width: 12.5%;
-    background-color: #6EC4DB;
-}
-.fieldset{top: 0.75%;}
-.syntax-directory{top: 0%;}
-.license{font-size: 15px}
-span.persName.on{color: #dac292; font-weight: bold;}
-span.emph.on{font-style: italic; font-weight: bold;}
-span.placeName.on{color: #ffcc5c; font-weight: bold;}
-span.signature.on{color: #ff6f69; font-weight: bold;}
-span.closer.on{color: #b8a9c9}
-span.poem.on{color: #eeac99}
-span.longdash.on{color: #667292; font-weight: bold;}
-span.opener.on{color: #b2b2b2}
-span.epigraph.on{color: #6b5b95}
-span.letter.on{color: #82b74b}
-span.byline.on{color: #feb236}
