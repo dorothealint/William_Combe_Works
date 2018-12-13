@@ -36,6 +36,7 @@ body {
     flex-direction: column;
     text-align: center;
     font-style: normal;
+    text-decoration: none;
 }
 .menu-container{
     color: #FFF7C0;
