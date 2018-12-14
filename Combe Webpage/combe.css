@@ -37,6 +37,7 @@ body {
     text-align: center;
     font-style: normal;
     text-decoration: none;
+    min-height: 70vh;
 }
 .menu-container{
     color: #FFF7C0;
@@ -55,10 +56,6 @@ body {
     display: flex;
     justify-content: space-around;
     padding: 30px;
-}
-.aboutCombe, .aboutTeam{
-    margin-bottom: 105px;
-    height: 100%;
 }
 .combeSource{font-size: 12px;}
 .footer-container{
